@@ -7,9 +7,9 @@ x=t.a
 w=u.r
 w.toString
 x.r=w
-u.r=A.bnJ(t)
+u.r=A.bnK(t)
 return t},
-bnI(d,e){var x
+bnJ(d,e){var x
 A:{x="\u9f20\u6807"
 if("views.login.welcome"===e){x="\u6b22\u8fce"
 break A}if("views.login.userName"===e){x="\u7528\u6237\u540d"
@@ -106,7 +106,7 @@ break A}if("macro.selectShortcutEdit"===e){x="\u8bf7\u9009\u62e9\u8981\u7f16\u8f
 break A}if("macro.newMacro"===e){x="\u65b0\u5efa\u5b8f"
 break A}x=null
 break A}return x},
-bnJ(d){return new A.aUa(d)},
+bnK(d){return new A.aUa(d)},
 a2m:function a2m(d,e){var _=this
 _.ax=d
 _.dx=_.db=_.cy=_.cx=_.CW=_.ay=$
@@ -192,7 +192,7 @@ ga69(){return"\u60a8\u786e\u5b9a\u8981\u6062\u590d\u9ed8\u8ba4\u6309\u952e\u5417
 A.aea.prototype={}
 var z=a.updateTypes([])
 A.aUa.prototype={
-$1(d){return A.bnI(this.a,d)},
+$1(d){return A.bnJ(this.a,d)},
 $S:91}
 A.aU3.prototype={
 $1$userName(d){return"\u4f60\u597d\uff0c"+B.h(d)+"\uff01"},
@@ -247,4 +247,4 @@ v(B.nB,[A.aUa,A.aU3,A.aU4,A.aU5,A.aU6,A.aU7,A.aU8,A.aU9])
 x(A.aea,B.jY)})()
 B.b75(b.typeUniverse,JSON.parse('{"a2m":{"ie":[],"jY":["dQ","ie"]}}'))
 var y={c:B.ad("oY<dQ,ie>")}};
-(a=>{a["9UK8SiCDXxh4QZSC11EIcUTJ9G4="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["eDmja/hwMYixxVoy+0fJOXTo2Gc="]=a.current})($__dart_deferred_initializers__);
