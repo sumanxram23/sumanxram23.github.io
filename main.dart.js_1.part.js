@@ -1,20 +1,20 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B,C,A={
-b5R(d,e,f){var x,w,v=null,u=new B.oY(C.r9,y.c),t=new B.oY(C.iB,y.c)
-t=new A.a2l(u,t)
+b5N(d,e,f){var x,w,v=null,u=new B.oW(C.r9,y.c),t=new B.oW(C.iB,y.c)
+t=new A.a2k(u,t)
 t.SV(d,v,e,v)
 x=t.a
 w=u.r
 w.toString
 x.r=w
-u.r=A.bnJ(t)
+u.r=A.bnG(t)
 return t},
-bnI(d,e){var x
+bnF(d,e){var x
 A:{x="\u9f20\u6807"
 if("views.login.welcome"===e){x="\u6b22\u8fce"
 break A}if("views.login.userName"===e){x="\u7528\u6237\u540d"
 break A}if("views.login.loginButton"===e){x="\u767b\u5f55"
-break A}if("views.home.greeting"===e){x=new A.aU3()
+break A}if("views.home.greeting"===e){x=new A.aU0()
 break A}if("devices.addDevice"===e){x="\u6dfb\u52a0\u8bbe\u5907"
 break A}if("devices.working"===e){x="\u5de5\u4f5c\u4e2d..."
 break A}if("devices.bluetoothWarning"===e){x="\u8be5\u9a71\u52a8\u7a0b\u5e8f\u65e0\u6cd5\u8bc6\u522b\u84dd\u7259\u8fde\u63a5\u3002\u8bf7\u4f7f\u7528 2.4G \u63a5\u6536\u5668\u6216\u7535\u7f06\u8fde\u63a5"
@@ -27,8 +27,8 @@ break A}if("sidebar.backlightSetting"===e){x="\u80cc\u5149\u8bbe\u7f6e"
 break A}if("sidebar.profileManagement"===e){x="\u914d\u7f6e\u6587\u4ef6\u7ba1\u7406"
 break A}if("sidebar.deviceSetting"===e){x="\u8bbe\u5907\u8bbe\u7f6e"
 break A}if("sidebar.mouse"===e)break A
-if("sidebar.batteryLabel"===e){x=new A.aU4()
-break A}if("sidebar.batteryCharging"===e){x=new A.aU5()
+if("sidebar.batteryLabel"===e){x=new A.aU1()
+break A}if("sidebar.batteryCharging"===e){x=new A.aU2()
 break A}if("sidebar.batteryEmpty"===e){x="\u7535\u91cf \u2014"
 break A}if("mapping.mouse"===e)break A
 if("mapping.keyboard"===e){x="\u952e\u76d8"
@@ -48,14 +48,14 @@ break A}if("common.switchToLightMode"===e){x="\u5207\u6362\u5230\u6d45\u8272\u6a
 break A}if("common.switchToDarkMode"===e){x="\u5207\u6362\u5230\u6df1\u8272\u6a21\u5f0f"
 break A}if("common.forward"===e){x="\u5411\u524d"
 break A}if("common.reverse"===e){x="\u53cd\u5411"
-break A}if("common.secondsUnit"===e){x=new A.aU6()
+break A}if("common.secondsUnit"===e){x=new A.aU3()
 break A}if("common.done"===e){x="\u5b8c\u6210"
 break A}if("mouseCanvas.imageMissing"===e){x="\u9f20\u6807\u56fe\u7247\u7f3a\u5931"
 break A}if("mouseCanvas.restoreDefaultKeysTip"===e){x="\u60a8\u786e\u5b9a\u8981\u6062\u590d\u9ed8\u8ba4\u6309\u952e\u5417\uff1f"
 break A}if("performance.dpiSettings"===e){x="DPI \u8bbe\u7f6e"
 break A}if("performance.reportRate"===e){x="\u56de\u62a5\u7387"
 break A}if("performance.levels"===e){x="\u6863\u4f4d"
-break A}if("performance.dpiLevel"===e){x=new A.aU7()
+break A}if("performance.dpiLevel"===e){x=new A.aU4()
 break A}if("performance.dpiStageColor"===e){x="DPI \u6863\u4f4d\u989c\u8272"
 break A}if("parameter.sensorFeature"===e){x="\u4f20\u611f\u5668\u529f\u80fd"
 break A}if("parameter.otherFeature"===e){x="\u5176\u4ed6\u529f\u80fd"
@@ -75,7 +75,7 @@ break A}if("actions.middle"===e){x="\u4e2d\u952e"
 break A}if("actions.forward"===e){x="\u524d\u8fdb"
 break A}if("actions.backward"===e){x="\u540e\u9000"
 break A}if("actions.dpiCycle"===e){x="DPI \u5faa\u73af"
-break A}if("actions.button"===e){x=new A.aU8()
+break A}if("actions.button"===e){x=new A.aU5()
 break A}if("actions.disable"===e){x="\u7981\u7528 / \u65e0\u64cd\u4f5c"
 break A}if("actions.buttonOff"===e){x="\u5173\u95ed\u6309\u952e"
 break A}if("actions.leftClick"===e){x="\u5de6\u952e\u5355\u51fb"
@@ -90,7 +90,7 @@ break A}if("actions.dpiDecrease"===e){x="\u51cf\u5c11 DPI"
 break A}if("actions.reportRate"===e){x="\u56de\u62a5\u7387"
 break A}if("actions.profileCycle"===e){x="\u914d\u7f6e\u6587\u4ef6\u5faa\u73af"
 break A}if("actions.sniper"===e){x="\u72d9\u51fb\u952e"
-break A}if("actions.macroPlay"===e){x=new A.aU9()
+break A}if("actions.macroPlay"===e){x=new A.aU6()
 break A}if("deviceSetting.mouseFirmwareVersion"===e){x="\u9f20\u6807\u56fa\u4ef6\u7248\u672c"
 break A}if("deviceSetting.dongleFirmwareVersion"===e){x="\u63a5\u6536\u5668\u56fa\u4ef6\u7248\u672c"
 break A}if("deviceSetting.latestVersion"===e){x="\u6700\u65b0\u7248\u672c"
@@ -106,30 +106,30 @@ break A}if("macro.selectShortcutEdit"===e){x="\u8bf7\u9009\u62e9\u8981\u7f16\u8f
 break A}if("macro.newMacro"===e){x="\u65b0\u5efa\u5b8f"
 break A}x=null
 break A}return x},
-bnJ(d){return new A.aUa(d)},
-a2l:function a2l(d,e){var _=this
+bnG(d){return new A.aU7(d)},
+a2k:function a2k(d,e){var _=this
 _.ax=d
 _.dx=_.db=_.cy=_.cx=_.CW=_.ay=$
 _.a=e
 _.w=_.r=_.f=_.e=_.d=_.b=$},
+aSJ:function aSJ(){},
 aSM:function aSM(){},
-aSP:function aSP(){},
-aSN:function aSN(){},
+aSK:function aSK(){},
+aSI:function aSI(){},
 aSL:function aSL(){},
-aSO:function aSO(){},
-aUa:function aUa(d){this.a=d},
+aU7:function aU7(d){this.a=d},
+aU0:function aU0(){},
+aU1:function aU1(){},
+aU2:function aU2(){},
 aU3:function aU3(){},
 aU4:function aU4(){},
 aU5:function aU5(){},
 aU6:function aU6(){},
-aU7:function aU7(){},
-aU8:function aU8(){},
-aU9:function aU9(){},
-ae8:function ae8(){}}
+ae7:function ae7(){}}
 B=c[0]
 C=c[2]
 A=a.updateHolder(c[3],A)
-A.a2l.prototype={
+A.a2k.prototype={
 i(d,e){var x=this.ax.Hc(e)
 return x==null?this.a.Hc(e):x},
 gxi(){var x=this.ay
@@ -137,29 +137,29 @@ return x===$?this.ay=this:x},
 guB(){var x=this,w=x.CW
 if(w===$){x.gxi()
 x.CW!==$&&B.aB()
-w=x.CW=new A.aSM()}return w},
+w=x.CW=new A.aSJ()}return w},
 gjQ(){var x=this,w=x.cx
 if(w===$){x.gxi()
 x.cx!==$&&B.aB()
-w=x.cx=new A.aSP()}return w},
+w=x.cx=new A.aSM()}return w},
 gmb(d){var x=this,w=x.cy
 if(w===$){x.gxi()
 x.cy!==$&&B.aB()
-w=x.cy=new A.aSN()}return w},
+w=x.cy=new A.aSK()}return w},
 glT(){var x=this,w=x.db
 if(w===$){x.gxi()
 x.db!==$&&B.aB()
-w=x.db=new A.aSL()}return w},
+w=x.db=new A.aSI()}return w},
 gPe(){var x=this,w=x.dx
 if(w===$){x.gxi()
 x.dx!==$&&B.aB()
-w=x.dx=new A.aSO()}return w},
+w=x.dx=new A.aSL()}return w},
 grN(){return this.ax}}
-A.aSM.prototype={
+A.aSJ.prototype={
 gu7(){return"\u6dfb\u52a0\u8bbe\u5907"},
 gQI(){return"\u5de5\u4f5c\u4e2d..."},
 ga0P(){return"\u8be5\u9a71\u52a8\u7a0b\u5e8f\u65e0\u6cd5\u8bc6\u522b\u84dd\u7259\u8fde\u63a5\u3002\u8bf7\u4f7f\u7528 2.4G \u63a5\u6536\u5668\u6216\u7535\u7f06\u8fde\u63a5"}}
-A.aSP.prototype={
+A.aSM.prototype={
 ga0Y(){return"\u6309\u952e\u6620\u5c04"},
 ga4L(){return"\u5b8f\u8bbe\u7f6e"},
 ga5q(){return"\u6027\u80fd\u8bbe\u7f6e"},
@@ -171,13 +171,13 @@ gv2(){return"\u9f20\u6807"},
 a0M(d){return"\u7535\u91cf "+d+"%"},
 a0K(d){return"\u7535\u91cf "+d+"% \u5145\u7535\u4e2d"},
 ga0L(){return"\u7535\u91cf \u2014"}}
-A.aSN.prototype={
+A.aSK.prototype={
 gv2(){return"\u9f20\u6807"},
 gOT(){return"\u952e\u76d8"},
 gHB(){return"\u7279\u6b8a\u952e"},
 gP2(){return"\u5b8f"},
 ga4U(){return"\u4fee\u9970\u952e"}}
-A.aSL.prototype={
+A.aSI.prototype={
 gRf(d){return"\u4fdd\u5b58"},
 gox(d){return"\u53d6\u6d88"},
 ga1n(d){return"\u786e\u8ba4"},
@@ -186,65 +186,65 @@ ga6j(){return"\u63d0\u793a"},
 ga4C(d){return"\u8bed\u8a00"},
 gSP(){return"\u5207\u6362\u5230\u6d45\u8272\u6a21\u5f0f"},
 gSO(){return"\u5207\u6362\u5230\u6df1\u8272\u6a21\u5f0f"}}
-A.aSO.prototype={
+A.aSL.prototype={
 ga3O(){return"\u9f20\u6807\u56fe\u7247\u7f3a\u5931"},
 ga69(){return"\u60a8\u786e\u5b9a\u8981\u6062\u590d\u9ed8\u8ba4\u6309\u952e\u5417\uff1f"}}
-A.ae8.prototype={}
+A.ae7.prototype={}
 var z=a.updateTypes([])
-A.aUa.prototype={
-$1(d){return A.bnI(this.a,d)},
-$S:105}
-A.aU3.prototype={
+A.aU7.prototype={
+$1(d){return A.bnF(this.a,d)},
+$S:91}
+A.aU0.prototype={
 $1$userName(d){return"\u4f60\u597d\uff0c"+B.f(d)+"\uff01"},
 $C:"$1$userName",
 $R:0,
 $D(){return{userName:C.b_}},
-$S:255}
-A.aU4.prototype={
+$S:166}
+A.aU1.prototype={
 $1$pct(d){return"\u7535\u91cf "+B.f(d)+"%"},
 $C:"$1$pct",
 $R:0,
 $D(){return{pct:C.b_}},
-$S:98}
-A.aU5.prototype={
+$S:99}
+A.aU2.prototype={
 $1$pct(d){return"\u7535\u91cf "+B.f(d)+"% \u5145\u7535\u4e2d"},
 $C:"$1$pct",
 $R:0,
 $D(){return{pct:C.b_}},
-$S:98}
-A.aU6.prototype={
+$S:99}
+A.aU3.prototype={
 $1$seconds(d){return B.f(d)+" \u79d2"},
 $C:"$1$seconds",
 $R:0,
 $D(){return{seconds:C.b_}},
-$S:152}
-A.aU7.prototype={
+$S:218}
+A.aU4.prototype={
 $1$level(d){return"DPI "+B.f(d)},
 $C:"$1$level",
 $R:0,
 $D(){return{level:C.b_}},
-$S:257}
-A.aU8.prototype={
+$S:159}
+A.aU5.prototype={
 $1$id(d){return"\u6309\u952e "+B.f(d)},
 $C:"$1$id",
 $R:0,
 $D(){return{id:C.b_}},
-$S:97}
-A.aU9.prototype={
+$S:98}
+A.aU6.prototype={
 $1$id(d){return"\u5b8f\u64ad\u653e (#"+B.f(d)+")"},
 $C:"$1$id",
 $R:0,
 $D(){return{id:C.b_}},
-$S:97};(function inheritance(){var x=a.mixin,w=a.inherit,v=a.inheritMany
-w(A.ae8,B.ie)
-w(A.a2l,A.ae8)
-w(A.aSM,B.a2h)
-w(A.aSP,B.a2k)
-w(A.aSN,B.a2i)
-w(A.aSL,B.a2g)
-w(A.aSO,B.a2j)
-v(B.nD,[A.aUa,A.aU3,A.aU4,A.aU5,A.aU6,A.aU7,A.aU8,A.aU9])
-x(A.ae8,B.jX)})()
-B.b76(b.typeUniverse,JSON.parse('{"a2l":{"ie":[],"jX":["dQ","ie"]}}'))
-var y={c:B.ad("oY<dQ,ie>")}};
-(a=>{a["CBxUWV7kKOebzwa8GcAQRprZRz8="]=a.current})($__dart_deferred_initializers__);
+$S:98};(function inheritance(){var x=a.mixin,w=a.inherit,v=a.inheritMany
+w(A.ae7,B.ie)
+w(A.a2k,A.ae7)
+w(A.aSJ,B.a2g)
+w(A.aSM,B.a2j)
+w(A.aSK,B.a2h)
+w(A.aSI,B.a2f)
+w(A.aSL,B.a2i)
+v(B.nB,[A.aU7,A.aU0,A.aU1,A.aU2,A.aU3,A.aU4,A.aU5,A.aU6])
+x(A.ae7,B.jX)})()
+B.b72(b.typeUniverse,JSON.parse('{"a2k":{"ie":[],"jX":["dQ","ie"]}}'))
+var y={c:B.ad("oW<dQ,ie>")}};
+(a=>{a["PmVFGmKZfAZo99NS+2ouiirsNQU="]=a.current})($__dart_deferred_initializers__);
