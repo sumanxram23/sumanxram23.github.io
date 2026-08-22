@@ -1,15 +1,15 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B,C,A={
-b6u(d,e,f){var x,w,v=null,u=new B.p1(C.ri,y.c),t=new B.p1(C.iC,y.c)
-t=new A.a2C(u,t)
+b6t(d,e,f){var x,w,v=null,u=new B.p1(C.ri,y.c),t=new B.p1(C.iC,y.c)
+t=new A.a2D(u,t)
 t.SZ(d,v,e,v)
 x=t.a
 w=u.r
 w.toString
 x.r=w
-u.r=A.bow(t)
+u.r=A.bov(t)
 return t},
-bov(d,e){var x
+bou(d,e){var x
 A:{x="\u9f20\u6807"
 if("views.login.welcome"===e){x="\u6b22\u8fce"
 break A}if("views.login.userName"===e){x="\u7528\u6237\u540d"
@@ -106,8 +106,8 @@ break A}if("macro.selectShortcutEdit"===e){x="\u8bf7\u9009\u62e9\u8981\u7f16\u8f
 break A}if("macro.newMacro"===e){x="\u65b0\u5efa\u5b8f"
 break A}x=null
 break A}return x},
-bow(d){return new A.aUO(d)},
-a2C:function a2C(d,e){var _=this
+bov(d){return new A.aUO(d)},
+a2D:function a2D(d,e){var _=this
 _.ax=d
 _.dx=_.db=_.cy=_.cx=_.CW=_.ay=$
 _.a=e
@@ -125,38 +125,38 @@ aUK:function aUK(){},
 aUL:function aUL(){},
 aUM:function aUM(){},
 aUN:function aUN(){},
-aew:function aew(){}}
+aev:function aev(){}}
 B=c[0]
 C=c[2]
 A=a.updateHolder(c[3],A)
-A.a2C.prototype={
+A.a2D.prototype={
 i(d,e){var x=this.ax.Hk(e)
 return x==null?this.a.Hk(e):x},
-gxj(){var x=this.ay
+gxi(){var x=this.ay
 return x===$?this.ay=this:x},
-guC(){var x=this,w=x.CW
-if(w===$){x.gxj()
+guD(){var x=this,w=x.CW
+if(w===$){x.gxi()
 x.CW!==$&&B.aB()
 w=x.CW=new A.aTo()}return w},
 gjR(){var x=this,w=x.cx
-if(w===$){x.gxj()
+if(w===$){x.gxi()
 x.cx!==$&&B.aB()
 w=x.cx=new A.aTr()}return w},
 gmc(d){var x=this,w=x.cy
-if(w===$){x.gxj()
+if(w===$){x.gxi()
 x.cy!==$&&B.aB()
 w=x.cy=new A.aTp()}return w},
 glW(){var x=this,w=x.db
-if(w===$){x.gxj()
+if(w===$){x.gxi()
 x.db!==$&&B.aB()
 w=x.db=new A.aTn()}return w},
 gPj(){var x=this,w=x.dx
-if(w===$){x.gxj()
+if(w===$){x.gxi()
 x.dx!==$&&B.aB()
 w=x.dx=new A.aTq()}return w},
 grO(){return this.ax}}
 A.aTo.prototype={
-gu8(){return"\u6dfb\u52a0\u8bbe\u5907"},
+gu9(){return"\u6dfb\u52a0\u8bbe\u5907"},
 gQM(){return"\u5de5\u4f5c\u4e2d..."},
 ga0T(){return"\u8be5\u9a71\u52a8\u7a0b\u5e8f\u65e0\u6cd5\u8bc6\u522b\u84dd\u7259\u8fde\u63a5\u3002\u8bf7\u4f7f\u7528 2.4G \u63a5\u6536\u5668\u6216\u7535\u7f06\u8fde\u63a5"}}
 A.aTr.prototype={
@@ -167,12 +167,12 @@ ga5o(){return"\u53c2\u6570\u8bbe\u7f6e"},
 ga0N(){return"\u80cc\u5149\u8bbe\u7f6e"},
 ga5E(){return"\u914d\u7f6e\u6587\u4ef6\u7ba1\u7406"},
 ga2d(){return"\u8bbe\u5907\u8bbe\u7f6e"},
-gv3(){return"\u9f20\u6807"},
+gv4(){return"\u9f20\u6807"},
 a0Q(d){return"\u7535\u91cf "+d+"%"},
 a0O(d){return"\u7535\u91cf "+d+"% \u5145\u7535\u4e2d"},
 ga0P(){return"\u7535\u91cf \u2014"}}
 A.aTp.prototype={
-gv3(){return"\u9f20\u6807"},
+gv4(){return"\u9f20\u6807"},
 gOY(){return"\u952e\u76d8"},
 gHI(){return"\u7279\u6b8a\u952e"},
 gP7(){return"\u5b8f"},
@@ -189,10 +189,10 @@ gSS(){return"\u5207\u6362\u5230\u6df1\u8272\u6a21\u5f0f"}}
 A.aTq.prototype={
 ga3R(){return"\u9f20\u6807\u56fe\u7247\u7f3a\u5931"},
 ga6c(){return"\u60a8\u786e\u5b9a\u8981\u6062\u590d\u9ed8\u8ba4\u6309\u952e\u5417\uff1f"}}
-A.aew.prototype={}
+A.aev.prototype={}
 var z=a.updateTypes([])
 A.aUO.prototype={
-$1(d){return A.bov(this.a,d)},
+$1(d){return A.bou(this.a,d)},
 $S:94}
 A.aUH.prototype={
 $1$userName(d){return"\u4f60\u597d\uff0c"+B.h(d)+"\uff01"},
@@ -236,15 +236,15 @@ $C:"$1$id",
 $R:0,
 $D(){return{id:C.b1}},
 $S:99};(function inheritance(){var x=a.mixin,w=a.inherit,v=a.inheritMany
-w(A.aew,B.ie)
-w(A.a2C,A.aew)
-w(A.aTo,B.a2y)
-w(A.aTr,B.a2B)
-w(A.aTp,B.a2z)
-w(A.aTn,B.a2x)
-w(A.aTq,B.a2A)
-v(B.nE,[A.aUO,A.aUH,A.aUI,A.aUJ,A.aUK,A.aUL,A.aUM,A.aUN])
-x(A.aew,B.k1)})()
-B.b7K(b.typeUniverse,JSON.parse('{"a2C":{"ie":[],"k1":["dS","ie"]}}'))
-var y={c:B.ad("p1<dS,ie>")}};
-(a=>{a["b3his0zD56aT9sLKPFJaPNfhN/I="]=a.current})($__dart_deferred_initializers__);
+w(A.aev,B.ig)
+w(A.a2D,A.aev)
+w(A.aTo,B.a2z)
+w(A.aTr,B.a2C)
+w(A.aTp,B.a2A)
+w(A.aTn,B.a2y)
+w(A.aTq,B.a2B)
+v(B.nF,[A.aUO,A.aUH,A.aUI,A.aUJ,A.aUK,A.aUL,A.aUM,A.aUN])
+x(A.aev,B.k1)})()
+B.b7J(b.typeUniverse,JSON.parse('{"a2D":{"ig":[],"k1":["dS","ig"]}}'))
+var y={c:B.ad("p1<dS,ig>")}};
+(a=>{a["a+KGPBk2Pd1JudCbsL5AFuTRfpY="]=a.current})($__dart_deferred_initializers__);
