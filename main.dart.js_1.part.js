@@ -1,15 +1,15 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B,C,A={
-b6g(d,e,f){var x,w,v=null,u=new B.p1(C.rv,y.c),t=new B.p1(C.iH,y.c)
+b6f(d,e,f){var x,w,v=null,u=new B.p1(C.rv,y.c),t=new B.p1(C.iH,y.c)
 t=new A.a2o(u,t)
 t.SE(d,v,e,v)
 x=t.a
 w=u.r
 w.toString
 x.r=w
-u.r=A.boi(t)
+u.r=A.boh(t)
 return t},
-boh(d,e){var x
+bog(d,e){var x
 A:{x="\u9f20\u6807"
 if("views.login.welcome"===e){x="\u6b22\u8fce"
 break A}if("views.login.userName"===e){x="\u7528\u6237\u540d"
@@ -106,7 +106,7 @@ break A}if("macro.selectShortcutEdit"===e){x="\u8bf7\u9009\u62e9\u8981\u7f16\u8f
 break A}if("macro.newMacro"===e){x="\u65b0\u5efa\u5b8f"
 break A}x=null
 break A}return x},
-boi(d){return new A.aUA(d)},
+boh(d){return new A.aUA(d)},
 a2o:function a2o(d,e){var _=this
 _.ax=d
 _.dx=_.db=_.cy=_.cx=_.CW=_.ay=$
@@ -189,50 +189,50 @@ ga5t(){return"\u60a8\u786e\u5b9a\u8981\u6062\u590d\u9ed8\u8ba4\u6309\u952e\u5417
 A.ae9.prototype={}
 var z=a.updateTypes([])
 A.aUA.prototype={
-$1(d){return A.boh(this.a,d)},
-$S:87}
+$1(d){return A.bog(this.a,d)},
+$S:103}
 A.aUt.prototype={
 $1$userName(d){return"\u4f60\u597d\uff0c"+B.h(d)+"\uff01"},
 $C:"$1$userName",
 $R:0,
 $D(){return{userName:C.b_}},
-$S:204}
+$S:262}
 A.aUu.prototype={
 $1$pct(d){return"\u7535\u91cf "+B.h(d)+"%"},
 $C:"$1$pct",
 $R:0,
 $D(){return{pct:C.b_}},
-$S:90}
+$S:101}
 A.aUv.prototype={
 $1$pct(d){return"\u7535\u91cf "+B.h(d)+"% \u5145\u7535\u4e2d"},
 $C:"$1$pct",
 $R:0,
 $D(){return{pct:C.b_}},
-$S:90}
+$S:101}
 A.aUw.prototype={
 $1$seconds(d){return B.h(d)+" \u79d2"},
 $C:"$1$seconds",
 $R:0,
 $D(){return{seconds:C.b_}},
-$S:201}
+$S:252}
 A.aUx.prototype={
 $1$level(d){return"DPI "+B.h(d)},
 $C:"$1$level",
 $R:0,
 $D(){return{level:C.b_}},
-$S:186}
+$S:222}
 A.aUy.prototype={
 $1$id(d){return"\u6309\u952e "+B.h(d)},
 $C:"$1$id",
 $R:0,
 $D(){return{id:C.b_}},
-$S:85}
+$S:104}
 A.aUz.prototype={
 $1$id(d){return"\u5b8f\u64ad\u653e (#"+B.h(d)+")"},
 $C:"$1$id",
 $R:0,
 $D(){return{id:C.b_}},
-$S:85};(function inheritance(){var x=a.mixin,w=a.inherit,v=a.inheritMany
+$S:104};(function inheritance(){var x=a.mixin,w=a.inherit,v=a.inheritMany
 w(A.ae9,B.ih)
 w(A.a2o,A.ae9)
 w(A.aTa,B.a2k)
@@ -242,6 +242,6 @@ w(A.aT9,B.a2j)
 w(A.aTc,B.a2m)
 v(B.nE,[A.aUA,A.aUt,A.aUu,A.aUv,A.aUw,A.aUx,A.aUy,A.aUz])
 x(A.ae9,B.jY)})()
-B.b7x(b.typeUniverse,JSON.parse('{"a2o":{"ih":[],"jY":["dT","ih"]}}'))
+B.b7w(b.typeUniverse,JSON.parse('{"a2o":{"ih":[],"jY":["dT","ih"]}}'))
 var y={c:B.ad("p1<dT,ih>")}};
-(a=>{a["y8yPrTufw82XdBqevanQ3hdICe0="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["V8qLkbC8fKJMLiYa/tNnycCblmM="]=a.current})($__dart_deferred_initializers__);
