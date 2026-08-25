@@ -7,9 +7,9 @@ x=t.a
 w=u.r
 w.toString
 x.r=w
-u.r=A.boJ(t)
+u.r=A.boH(t)
 return t},
-boI(d,e){var x
+boG(d,e){var x
 A:{x="\u6027\u80fd\u8bbe\u7f6e"
 if("views.login.welcome"===e){x="\u6b22\u8fce"
 break A}if("views.login.userName"===e){x="\u7528\u6237\u540d"
@@ -241,7 +241,7 @@ break A}if("appSettings.currentVersion"===e){x=new A.aV8()
 break A}if("appSettings.officialWebsite"===e){x=new A.aV0()
 break A}x=null
 break A}return x},
-boJ(d){return new A.aV9(d)},
+boH(d){return new A.aV9(d)},
 a2l:function a2l(d,e){var _=this
 _.ch=d
 _.k4=_.k3=_.k2=_.k1=_.id=_.go=_.fy=_.fx=_.fr=_.dy=_.dx=_.db=_.cy=_.CW=$
@@ -549,7 +549,7 @@ ga7c(){return"\u6309\u4f4f\u64ad\u653e"}}
 A.ae9.prototype={}
 var z=a.updateTypes([])
 A.aV9.prototype={
-$1(d){return A.boI(this.a,d)},
+$1(d){return A.boG(this.a,d)},
 $S:90}
 A.aUY.prototype={
 $1$userName(d){return"\u4f60\u597d\uff0c"+B.h(d)+"\uff01"},
@@ -643,4 +643,4 @@ v(B.nz,[A.aV9,A.aUY,A.aUZ,A.aV_,A.aV1,A.aV2,A.aV3,A.aV4,A.aV5,A.aV6,A.aV7,A.aV8,
 x(A.ae9,B.jX)})()
 B.b88(b.typeUniverse,JSON.parse('{"a2l":{"ig":[],"jX":["dR","ig"]}}'))
 var y={c:B.af("oT<dR,ig>")}};
-(a=>{a["Aj9V9kiOXBrB05Rna7OBJWyP5Sk="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["JZwcBUKNTipIivSyN0zvdzFTPeU="]=a.current})($__dart_deferred_initializers__);
