@@ -1,7 +1,7 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B,C,A={
 b3a(d,e,f){var x,w,v=null,u=new B.o4(C.mn,y.c),t=new B.o4(C.f_,y.c)
-t=new A.a_X(u,t)
+t=new A.a_Y(u,t)
 t.Ti(d,v,e,v)
 x=t.a
 w=u.r
@@ -14,13 +14,13 @@ A:{x="\u6027\u80fd\u8bbe\u7f6e"
 if("views.login.welcome"===e){x="\u6b22\u8fce"
 break A}if("views.login.userName"===e){x="\u7528\u6237\u540d"
 break A}if("views.login.loginButton"===e){x="\u767b\u5f55"
-break A}if("views.home.greeting"===e){x=new A.aRr()
+break A}if("views.home.greeting"===e){x=new A.aRs()
 break A}if("devices.addDevice"===e){x="\u6dfb\u52a0\u8bbe\u5907"
 break A}if("devices.working"===e){x="\u5de5\u4f5c\u4e2d..."
 break A}if("devices.bluetoothWarning"===e){x="\u8be5\u9a71\u52a8\u7a0b\u5e8f\u65e0\u6cd5\u8bc6\u522b\u84dd\u7259\u8fde\u63a5\u3002\u8bf7\u4f7f\u7528 2.4G \u63a5\u6536\u5668\u6216\u7535\u7f06\u8fde\u63a5"
 break A}if("devices.noDevices"===e){x="\u672a\u53d1\u73b0\u8bbe\u5907"
 break A}if("devices.deviceStatus"===e){x="\u8bbe\u5907\u72b6\u6001"
-break A}if("devices.batteryLow"===e){x=new A.aRs()
+break A}if("devices.batteryLow"===e){x=new A.aRt()
 break A}if("devices.sleeping"===e){x="\u4f11\u7720\u4e2d"
 break A}if("sidebar.buttonMapping"===e){x="\u6309\u952e\u6620\u5c04"
 break A}if("sidebar.macroSetting"===e){x="\u5b8f\u8bbe\u7f6e"
@@ -30,8 +30,8 @@ break A}if("sidebar.backlightSetting"===e){x="\u80cc\u5149\u8bbe\u7f6e"
 break A}if("sidebar.profileManagement"===e){x="\u914d\u7f6e\u6587\u4ef6\u7ba1\u7406"
 break A}if("sidebar.deviceSetting"===e){x="\u8bbe\u5907\u8bbe\u7f6e"
 break A}if("sidebar.mouse"===e){x="\u9f20\u6807"
-break A}if("sidebar.batteryLabel"===e){x=new A.aRt()
-break A}if("sidebar.batteryCharging"===e){x=new A.aRz()
+break A}if("sidebar.batteryLabel"===e){x=new A.aRu()
+break A}if("sidebar.batteryCharging"===e){x=new A.aRA()
 break A}if("sidebar.batteryEmpty"===e){x="\u7535\u91cf \u2014"
 break A}if("sidebar.back"===e){x="\u8fd4\u56de"
 break A}if("windowControls.minimize"===e){x="\u6700\u5c0f\u5316"
@@ -66,7 +66,7 @@ break A}if("common.switchToLightMode"===e){x="\u5207\u6362\u5230\u6d45\u8272\u6a
 break A}if("common.switchToDarkMode"===e){x="\u5207\u6362\u5230\u6df1\u8272\u6a21\u5f0f"
 break A}if("common.forward"===e){x="\u5411\u524d"
 break A}if("common.reverse"===e){x="\u53cd\u5411"
-break A}if("common.secondsUnit"===e){x=new A.aRA()
+break A}if("common.secondsUnit"===e){x=new A.aRB()
 break A}if("common.back"===e){x="\u8fd4\u56de"
 break A}if("mouseCanvas.imageMissing"===e){x="\u9f20\u6807\u56fe\u7247\u7f3a\u5931"
 break A}if("mouseCanvas.restoreDefaultKeysTip"===e){x="\u60a8\u786e\u5b9a\u8981\u6062\u590d\u9ed8\u8ba4\u6309\u952e\u5417\uff1f"
@@ -75,11 +75,11 @@ break A}if("performance.dpiSettingsSubtitle"===e){x="\u914d\u7f6e\u7075\u654f\u5
 break A}if("performance.reportRate"===e){x="\u56de\u62a5\u7387"
 break A}if("performance.reportRateSubtitle"===e){x="\u9009\u62e9\u9f20\u6807\u5411\u8ba1\u7b97\u673a\u62a5\u544a\u6570\u636e\u7684\u9891\u7387"
 break A}if("performance.levels"===e){x="\u6863\u4f4d"
-break A}if("performance.dpiLevel"===e){x=new A.aRB()
+break A}if("performance.dpiLevel"===e){x=new A.aRC()
 break A}if("performance.dpiStageColor"===e){x="DPI \u6863\u4f4d\u989c\u8272"
 break A}if("performance.addStage"===e){x="\u6dfb\u52a0\u6863\u4f4d"
 break A}if("performance.removeStage"===e){x="\u5220\u9664\u6863\u4f4d"
-break A}if("performance.deleteStage"===e){x=new A.aRC()
+break A}if("performance.deleteStage"===e){x=new A.aRD()
 break A}if("parameter.sensorFeature"===e){x="\u4f20\u611f\u5668\u529f\u80fd"
 break A}if("parameter.sensorFeatureSubtitle"===e){x="\u9ad8\u7ea7\u5149\u5b66\u4f20\u611f\u5668\u5fae\u8c03\u4e0e\u6821\u51c6"
 break A}if("parameter.otherFeature"===e){x="\u8bbe\u5907\u529f\u80fd"
@@ -99,7 +99,7 @@ break A}if("parameter.performanceDesc"===e){x="\u5728\u6700\u9ad8\u54cd\u5e94\u9
 break A}if("parameter.performanceEco"===e){x="\u4f4e\u529f\u8017\u6a21\u5f0f (\u8282\u80fd)"
 break A}if("parameter.performanceOffice"===e){x="\u529e\u516c\u6a21\u5f0f"
 break A}if("parameter.performanceGaming"===e){x="\u9ad8\u6027\u80fd\u6a21\u5f0f (\u6e38\u620f)"
-break A}if("parameter.performanceMode"===e){x=new A.aRD()
+break A}if("parameter.performanceMode"===e){x=new A.aRE()
 break A}if("parameter.debounce"===e){x="\u6309\u952e\u9632\u6296\u5ef6\u8fdf"
 break A}if("parameter.debounceDesc"===e){x="\u8fc7\u6ee4\u673a\u68b0\u89e6\u70b9\u6296\u52a8\u5bfc\u81f4\u7684\u610f\u5916\u53cc\u51fb\u3002"
 break A}if("parameter.wheelDirection"===e){x="\u6eda\u8f6e\u65b9\u5411"
@@ -137,7 +137,7 @@ break A}if("actions.middle"===e){x="\u4e2d\u952e"
 break A}if("actions.forward"===e){x="\u524d\u8fdb"
 break A}if("actions.backward"===e){x="\u540e\u9000"
 break A}if("actions.dpiCycle"===e){x="DPI \u5faa\u73af"
-break A}if("actions.button"===e){x=new A.aRE()
+break A}if("actions.button"===e){x=new A.aRF()
 break A}if("actions.disable"===e){x="\u7981\u7528"
 break A}if("actions.buttonOff"===e){x="\u5173\u95ed\u6309\u952e"
 break A}if("actions.leftClick"===e){x="\u5de6\u952e"
@@ -159,7 +159,7 @@ break A}if("actions.reportRate"===e){x="\u56de\u62a5\u7387\u5faa\u73af"
 break A}if("actions.reportRateCycle"===e){x="\u56de\u62a5\u7387\u5faa\u73af"
 break A}if("actions.profileCycle"===e){x="\u914d\u7f6e\u6587\u4ef6\u5faa\u73af"
 break A}if("actions.sniper"===e){x="\u72d9\u51fb\u952e"
-break A}if("actions.macroPlay"===e){x=new A.aRF()
+break A}if("actions.macroPlay"===e){x=new A.aRG()
 break A}if("actions.volumeUp"===e){x="\u97f3\u91cf\u589e\u52a0"
 break A}if("actions.volumeDown"===e){x="\u97f3\u91cf\u51cf\u5c11"
 break A}if("actions.volumeMute"===e){x="\u9759\u97f3"
@@ -264,12 +264,12 @@ break A}if("macro.savedSuccess"===e){x="\u5b8f\u4fdd\u5b58\u6210\u529f"
 break A}if("macro.savedFailed"===e){x="\u5b8f\u4fdd\u5b58\u5931\u8d25"
 break A}if("macro.allSlotsUsed"===e){x="\u6240\u6709 16 \u4e2a\u5b8f\u69fd\u4f4d\u5747\u5df2\u88ab\u4f7f\u7528"
 break A}if("macro.fixedDelayRange"===e){x="\u56fa\u5b9a\u5ef6\u8fdf\u5fc5\u987b\u5728 1 \u5230 100 \u6beb\u79d2\u4e4b\u95f4"
-break A}if("macro.saveFailed"===e){x=new A.aRG()
+break A}if("macro.saveFailed"===e){x=new A.aRH()
 break A}if("macro.loopCountRange"===e){x="\u5faa\u73af\u6b21\u6570\u5fc5\u987b\u5728 1 \u5230 255 \u4e4b\u95f4"
-break A}if("macro.nameTooLong"===e){x=new A.aRu()
+break A}if("macro.nameTooLong"===e){x=new A.aRv()
 break A}if("macro.actionCountRange"===e){x="\u5b8f\u5fc5\u987b\u5305\u542b 1 \u5230 30 \u4e2a\u64cd\u4f5c"
-break A}if("macro.delayRange"===e){x=new A.aRv()
-break A}if("macro.unsupportedKey"===e){x=new A.aRw()
+break A}if("macro.delayRange"===e){x=new A.aRw()
+break A}if("macro.unsupportedKey"===e){x=new A.aRx()
 break A}if("macro.modes.loop"===e){x="\u5faa\u73af"
 break A}if("macro.modes.stopOnAnyKey"===e){x="\u6309\u4efb\u610f\u952e\u6216\u9f20\u6807\u70b9\u51fb\u505c\u6b62"
 break A}if("macro.modes.playOnHold"===e){x="\u6309\u4f4f\u64ad\u653e"
@@ -287,46 +287,45 @@ break A}if("appSettings.communities"===e){x="NEWMEN HUB \u793e\u533a"
 break A}if("appSettings.performanceSettings"===e)break A
 if("appSettings.lowBatteryThreshold"===e){x="\u4f4e\u7535\u91cf\u63d0\u9192\u9608\u503c"
 break A}if("appSettings.about"===e){x="\u5173\u4e8e NEWMEN HUB"
-break A}if("appSettings.currentVersion"===e){x=new A.aRx()
-break A}if("appSettings.officialWebsite"===e){x=new A.aRy()
+break A}if("appSettings.currentVersion"===e){x=new A.aRy()
+break A}if("appSettings.officialWebsite"===e){x=new A.aRz()
 break A}if("appSettings.lightTheme"===e){x="\u6d45\u8272\u6a21\u5f0f"
 break A}if("appSettings.darkTheme"===e){x="\u6df1\u8272\u6a21\u5f0f"
 break A}if("appSettings.systemTheme"===e){x="\u8ddf\u968f\u7cfb\u7edf"
 break A}x=null
 break A}return x},
-bk5(d){return new A.aRH(d)},
-a_X:function a_X(d,e){var _=this
+bk5(d){return new A.aRI(d)},
+a_Y:function a_Y(d,e){var _=this
 _.ch=d
 _.k4=_.k3=_.k2=_.k1=_.id=_.go=_.fy=_.fx=_.fr=_.dy=_.dx=_.db=_.cy=_.CW=$
 _.a=e
 _.ay=_.ax=_.at=_.as=_.Q=_.z=_.y=_.x=_.w=_.r=_.f=_.e=_.d=_.b=$},
-aQd:function aQd(){},
-aQk:function aQk(){},
-aQg:function aQg(){},
-aQb:function aQb(){},
+aQe:function aQe(){},
+aQl:function aQl(){},
 aQh:function aQh(){},
-aQj:function aQj(){},
-aQi:function aQi(){},
-aQa:function aQa(d,e){var _=this
-_.c=d
-_.d=$
-_.a=e
-_.b=$},
-aQ7:function aQ7(){},
 aQc:function aQc(){},
-aQf:function aQf(d,e){var _=this
+aQi:function aQi(){},
+aQk:function aQk(){},
+aQj:function aQj(){},
+aQb:function aQb(d,e){var _=this
 _.c=d
 _.d=$
 _.a=e
 _.b=$},
 aQ8:function aQ8(){},
+aQd:function aQd(){},
+aQg:function aQg(d,e){var _=this
+_.c=d
+_.d=$
+_.a=e
+_.b=$},
 aQ9:function aQ9(){},
-aQe:function aQe(){},
-aRH:function aRH(d){this.a=d},
-aRr:function aRr(){},
+aQa:function aQa(){},
+aQf:function aQf(){},
+aRI:function aRI(d){this.a=d},
 aRs:function aRs(){},
 aRt:function aRt(){},
-aRz:function aRz(){},
+aRu:function aRu(){},
 aRA:function aRA(){},
 aRB:function aRB(){},
 aRC:function aRC(){},
@@ -334,16 +333,17 @@ aRD:function aRD(){},
 aRE:function aRE(){},
 aRF:function aRF(){},
 aRG:function aRG(){},
-aRu:function aRu(){},
+aRH:function aRH(){},
 aRv:function aRv(){},
 aRw:function aRw(){},
 aRx:function aRx(){},
 aRy:function aRy(){},
-abp:function abp(){}}
+aRz:function aRz(){},
+abq:function abq(){}}
 B=c[0]
 C=c[2]
 A=a.updateHolder(c[3],A)
-A.a_X.prototype={
+A.a_Y.prototype={
 i(d,e){var x=this.ch.GR(e)
 return x==null?this.a.GR(e):x},
 gjS(){var x=this.CW
@@ -351,58 +351,58 @@ return x===$?this.CW=this:x},
 goi(){var x=this,w=x.cy
 if(w===$){x.gjS()
 x.cy!==$&&B.ax()
-w=x.cy=new A.aQd()}return w},
+w=x.cy=new A.aQe()}return w},
 gkE(){var x=this,w=x.db
 if(w===$){x.gjS()
 x.db!==$&&B.ax()
-w=x.db=new A.aQk()}return w},
+w=x.db=new A.aQl()}return w},
 gfp(d){var x=this,w=x.dy
 if(w===$){x.gjS()
 x.dy!==$&&B.ax()
-w=x.dy=new A.aQg()}return w},
+w=x.dy=new A.aQh()}return w},
 gen(){var x=this,w=x.fr
 if(w===$){x.gjS()
 x.fr!==$&&B.ax()
-w=x.fr=new A.aQb()}return w},
+w=x.fr=new A.aQc()}return w},
 gP2(){var x=this,w=x.fx
 if(w===$){x.gjS()
 x.fx!==$&&B.ax()
-w=x.fx=new A.aQh()}return w},
+w=x.fx=new A.aQi()}return w},
 gis(d){var x=this,w=x.fy
 if(w===$){x.gjS()
 x.fy!==$&&B.ax()
-w=x.fy=new A.aQj()}return w},
+w=x.fy=new A.aQk()}return w},
 gdg(){var x=this,w=x.go
 if(w===$){x.gjS()
 x.go!==$&&B.ax()
-w=x.go=new A.aQi()}return w},
+w=x.go=new A.aQj()}return w},
 geI(){var x,w=this,v=w.id
 if(v===$){x=w.gjS()
 w.id!==$&&B.ax()
-v=w.id=new A.aQa(x,x)}return v},
+v=w.id=new A.aQb(x,x)}return v},
 gY(d){var x=this,w=x.k1
 if(w===$){x.gjS()
 x.k1!==$&&B.ax()
-w=x.k1=new A.aQ7()}return w},
+w=x.k1=new A.aQ8()}return w},
 gmJ(){var x=this,w=x.k2
 if(w===$){x.gjS()
 x.k2!==$&&B.ax()
-w=x.k2=new A.aQc()}return w},
+w=x.k2=new A.aQd()}return w},
 gbB(){var x,w=this,v=w.k3
 if(v===$){x=w.gjS()
 w.k3!==$&&B.ax()
-v=w.k3=new A.aQf(x,x)}return v},
+v=w.k3=new A.aQg(x,x)}return v},
 ge2(){var x=this,w=x.k4
 if(w===$){x.gjS()
 x.k4!==$&&B.ax()
-w=x.k4=new A.aQ8()}return w},
+w=x.k4=new A.aQ9()}return w},
 gp7(){return this.ch}}
-A.aQd.prototype={
+A.aQe.prototype={
 gpN(){return"\u6dfb\u52a0\u8bbe\u5907"},
 gQV(){return"\u5de5\u4f5c\u4e2d..."},
 gM7(){return"\u8be5\u9a71\u52a8\u7a0b\u5e8f\u65e0\u6cd5\u8bc6\u522b\u84dd\u7259\u8fde\u63a5\u3002\u8bf7\u4f7f\u7528 2.4G \u63a5\u6536\u5668\u6216\u7535\u7f06\u8fde\u63a5"},
 gS7(){return"\u4f11\u7720\u4e2d"}}
-A.aQk.prototype={
+A.aQl.prototype={
 ga11(){return"\u6309\u952e\u6620\u5c04"},
 gEP(){return"\u5b8f\u8bbe\u7f6e"},
 ga6p(){return"\u6027\u80fd\u8bbe\u7f6e"},
@@ -411,7 +411,7 @@ ga0S(){return"\u80cc\u5149\u8bbe\u7f6e"},
 ga6D(){return"\u914d\u7f6e\u6587\u4ef6\u7ba1\u7406"},
 gmJ(){return"\u8bbe\u5907\u8bbe\u7f6e"},
 gwO(d){return"\u8fd4\u56de"}}
-A.aQg.prototype={
+A.aQh.prototype={
 gEV(){return"\u9f20\u6807"},
 gOH(){return"\u952e\u76d8"},
 gHj(){return"\u7279\u6b8a\u952e"},
@@ -425,7 +425,7 @@ ga1y(){return"\u5feb\u6377\u529f\u80fd"},
 ga1m(){return"\u7ec4\u5408\u952e"},
 ga53(){return"\u5b57\u6bcd\u3001\u7b26\u53f7\u548c\u6570\u5b57\u952e"},
 ga5G(){return"\u5c0f\u952e\u76d8\u6309\u952e"}}
-A.aQb.prototype={
+A.aQc.prototype={
 gjH(d){return"\u4fdd\u5b58"},
 gih(d){return"\u53d6\u6d88"},
 ga1v(d){return"\u786e\u8ba4"},
@@ -437,10 +437,10 @@ gy_(d){return"\u8bed\u8a00"},
 gTb(){return"\u5207\u6362\u5230\u6d45\u8272\u6a21\u5f0f"},
 gTa(){return"\u5207\u6362\u5230\u6df1\u8272\u6a21\u5f0f"},
 gwO(d){return"\u8fd4\u56de"}}
-A.aQh.prototype={
+A.aQi.prototype={
 ga4a(){return"\u9f20\u6807\u56fe\u7247\u7f3a\u5931"},
 ga7b(){return"\u60a8\u786e\u5b9a\u8981\u6062\u590d\u9ed8\u8ba4\u6309\u952e\u5417\uff1f"}}
-A.aQj.prototype={
+A.aQk.prototype={
 ga2M(){return"DPI \u8bbe\u7f6e"},
 ga2N(){return"\u914d\u7f6e\u7075\u654f\u5ea6\u6863\u4f4d\u3001\u6307\u793a\u706f\u989c\u8272\u53ca\u542f\u7528\u6863\u4f4d"},
 gQ3(){return"\u56de\u62a5\u7387"},
@@ -450,7 +450,7 @@ a2L(d){return"DPI "+d},
 ga2O(){return"DPI \u6863\u4f4d\u989c\u8272"},
 gLL(){return"\u6dfb\u52a0\u6863\u4f4d"},
 a2o(d){return"\u5220\u9664 DPI \u6863\u4f4d "+d}}
-A.aQi.prototype={
+A.aQj.prototype={
 gRF(){return"\u4f20\u611f\u5668\u529f\u80fd"},
 gRH(){return"\u9ad8\u7ea7\u5149\u5b66\u4f20\u611f\u5668\u5fae\u8c03\u4e0e\u6821\u51c6"},
 ga69(){return"\u8bbe\u5907\u529f\u80fd"},
@@ -479,7 +479,7 @@ ga81(){return"\u6b63\u5411 (\u6807\u51c6)"},
 ga82(){return"\u53cd\u5411 (\u53cd\u8f6c)"},
 gS5(){return"\u4f11\u7720\u65f6\u95f4"},
 gS6(){return"\u8fdb\u5165\u8d85\u4f4e\u529f\u8017\u5f85\u673a\u6a21\u5f0f\u524d\u7684\u65e0\u64cd\u4f5c\u8d85\u65f6\u65f6\u95f4\u3002"}}
-A.aQa.prototype={
+A.aQb.prototype={
 gEU(d){return"\u6a21\u5f0f"},
 ga5q(){return"\u9009\u62e9\u52a8\u6001\u706f\u6548\u6a21\u5f0f\u6216\u9759\u6001\u7167\u660e\u6548\u679c"},
 gRy(){return"\u9009\u62e9\u6a21\u5f0f"},
@@ -494,8 +494,8 @@ ga6w(){return"\u7701\u7535"},
 ga6x(){return"\u5173\u95ed\u706f\u5149\u4ee5\u8282\u7701\u7535\u91cf\u524d\u7684\u65e0\u64cd\u4f5c\u8d85\u65f6\u65f6\u95f4\u3002"},
 ga1j(){return"\u989c\u8272\u4ee3\u7801"},
 gip(){var x=this.d
-return x===$?this.d=new A.aQ9():x}}
-A.aQ7.prototype={
+return x===$?this.d=new A.aQa():x}}
+A.aQ8.prototype={
 gjw(d){return"\u5de6\u952e"},
 gyJ(d){return"\u53f3\u952e"},
 gyc(){return"\u4e2d\u952e"},
@@ -577,13 +577,13 @@ ga5N(){return"\u5c0f\u952e\u76d8 6"},
 ga5O(){return"\u5c0f\u952e\u76d8 7"},
 ga5P(){return"\u5c0f\u952e\u76d8 8"},
 ga5Q(){return"\u5c0f\u952e\u76d8 9"}}
-A.aQc.prototype={
+A.aQd.prototype={
 ga5u(){return"\u9f20\u6807\u56fa\u4ef6\u7248\u672c"},
 ga2G(){return"\u63a5\u6536\u5668\u56fa\u4ef6\u7248\u672c"},
 ga28(){return"\u5f53\u524d\u7248\u672c"},
 ga1b(){return"\u68c0\u67e5\u66f4\u65b0"},
 ga7Q(){return"\u66f4\u65b0\u56fa\u4ef6"}}
-A.aQf.prototype={
+A.aQg.prototype={
 gOP(){return"\u5b8f\u5217\u8868"},
 ga5h(){return"\u5b8f\u540d\u79f0"},
 gEZ(){return"\u65b0\u5efa\u5b8f"},
@@ -622,8 +622,8 @@ ga0i(){return"\u5b8f\u5fc5\u987b\u5305\u542b 1 \u5230 30 \u4e2a\u64cd\u4f5c"},
 a2n(d){return"\u64cd\u4f5c "+d+" \u7684\u5ef6\u8fdf\u5fc5\u987b\u5728 0 \u5230 127 \u4e4b\u95f4"},
 a7K(d){return"\u64cd\u4f5c "+d+" \u5305\u542b\u4e0d\u53d7\u652f\u6301\u7684\u6309\u952e\u4ee3\u7801"},
 gip(){var x=this.d
-return x===$?this.d=new A.aQe():x}}
-A.aQ8.prototype={
+return x===$?this.d=new A.aQf():x}}
+A.aQ9.prototype={
 gzW(){return"\u7cfb\u7edf"},
 gy_(d){return"\u8bed\u8a00"},
 gFZ(){return"\u4e3b\u9898"},
@@ -642,7 +642,7 @@ a5X(d){return"\u5b98\u65b9\u7f51\u7ad9: "+d},
 ga55(){return"\u6d45\u8272\u6a21\u5f0f"},
 ga2g(){return"\u6df1\u8272\u6a21\u5f0f"},
 gTd(){return"\u8ddf\u968f\u7cfb\u7edf"}}
-A.aQ9.prototype={
+A.aQa.prototype={
 ga1w(){return"\u5e38\u4eae"},
 gS1(){return"\u5355\u8272\u547c\u5438"},
 ga5y(){return"\u591a\u8272\u547c\u5438"},
@@ -652,129 +652,129 @@ ga2f(){return"\u4e03\u5f69\u6ce2\u6d6a"},
 ga2e(){return"\u5149\u8c31\u5faa\u73af"},
 ga7n(){return"\u8dd1\u9a6c\u706f"},
 ga5W(){return"\u5173\u95ed"}}
-A.aQe.prototype={
+A.aQf.prototype={
 ga5d(d){return"\u5faa\u73af"},
 gSe(){return"\u6309\u4efb\u610f\u952e\u6216\u9f20\u6807\u70b9\u51fb\u505c\u6b62"},
 ga6s(){return"\u6309\u4f4f\u64ad\u653e"}}
-A.abp.prototype={}
+A.abq.prototype={}
 var z=a.updateTypes([])
-A.aRH.prototype={
+A.aRI.prototype={
 $1(d){return A.bk4(this.a,d)},
 $S:82}
-A.aRr.prototype={
+A.aRs.prototype={
 $1$userName(d){return"\u4f60\u597d\uff0c"+B.h(d)+"\uff01"},
 $C:"$1$userName",
 $R:0,
 $D(){return{userName:C.a7}},
 $S:264}
-A.aRs.prototype={
+A.aRt.prototype={
 $1$deviceName(d){return B.h(d)+": \u7535\u91cf\u8fc7\u4f4e"},
 $C:"$1$deviceName",
 $R:0,
 $D(){return{deviceName:C.a7}},
 $S:265}
-A.aRt.prototype={
+A.aRu.prototype={
 $1$pct(d){return"\u7535\u91cf "+B.h(d)+"%"},
 $C:"$1$pct",
 $R:0,
 $D(){return{pct:C.a7}},
 $S:91}
-A.aRz.prototype={
+A.aRA.prototype={
 $1$pct(d){return"\u7535\u91cf "+B.h(d)+"% \u5145\u7535\u4e2d"},
 $C:"$1$pct",
 $R:0,
 $D(){return{pct:C.a7}},
 $S:91}
-A.aRA.prototype={
+A.aRB.prototype={
 $1$seconds(d){return B.h(d)+" \u79d2"},
 $C:"$1$seconds",
 $R:0,
 $D(){return{seconds:C.a7}},
 $S:266}
-A.aRB.prototype={
+A.aRC.prototype={
 $1$level(d){return"DPI "+B.h(d)},
 $C:"$1$level",
 $R:0,
 $D(){return{level:C.a7}},
 $S:98}
-A.aRC.prototype={
+A.aRD.prototype={
 $1$level(d){return"\u5220\u9664 DPI \u6863\u4f4d "+B.h(d)},
 $C:"$1$level",
 $R:0,
 $D(){return{level:C.a7}},
 $S:98}
-A.aRD.prototype={
+A.aRE.prototype={
 $1$wire(d){return"\u6a21\u5f0f "+B.h(d)},
 $C:"$1$wire",
 $R:0,
 $D(){return{wire:C.a7}},
 $S:268}
-A.aRE.prototype={
+A.aRF.prototype={
 $1$id(d){return"\u6309\u952e "+B.h(d)},
 $C:"$1$id",
 $R:0,
 $D(){return{id:C.a7}},
 $S:97}
-A.aRF.prototype={
+A.aRG.prototype={
 $1$id(d){return"\u5b8f\u64ad\u653e (#"+B.h(d)+")"},
 $C:"$1$id",
 $R:0,
 $D(){return{id:C.a7}},
 $S:97}
-A.aRG.prototype={
+A.aRH.prototype={
 $1$error(d){return"\u5b8f\u4fdd\u5b58\u5931\u8d25: "+B.h(d)},
 $C:"$1$error",
 $R:0,
 $D(){return{error:C.a7}},
 $S:147}
-A.aRu.prototype={
+A.aRv.prototype={
 $1$max(d){return"\u5b8f\u540d\u79f0\u957f\u5ea6\u4e0d\u80fd\u8d85\u8fc7 "+B.h(d)+" \u4e2a\u5b57\u7b26"},
 $C:"$1$max",
 $R:0,
 $D(){return{max:C.a7}},
 $S:148}
-A.aRv.prototype={
+A.aRw.prototype={
 $1$index(d){return"\u64cd\u4f5c "+B.h(d)+" \u7684\u5ef6\u8fdf\u5fc5\u987b\u5728 0 \u5230 127 \u4e4b\u95f4"},
 $C:"$1$index",
 $R:0,
 $D(){return{index:C.a7}},
 $S:101}
-A.aRw.prototype={
+A.aRx.prototype={
 $1$index(d){return"\u64cd\u4f5c "+B.h(d)+" \u5305\u542b\u4e0d\u53d7\u652f\u6301\u7684\u6309\u952e\u4ee3\u7801"},
 $C:"$1$index",
 $R:0,
 $D(){return{index:C.a7}},
 $S:101}
-A.aRx.prototype={
+A.aRy.prototype={
 $1$version(d){return"\u5f53\u524d\u7248\u672c: "+B.h(d)},
 $C:"$1$version",
 $R:0,
 $D(){return{version:C.a7}},
 $S:150}
-A.aRy.prototype={
+A.aRz.prototype={
 $1$url(d){return"\u5b98\u65b9\u7f51\u7ad9: "+B.h(d)},
 $C:"$1$url",
 $R:0,
 $D(){return{url:C.a7}},
 $S:151};(function inheritance(){var x=a.mixin,w=a.inherit,v=a.inheritMany
-w(A.abp,B.hS)
-w(A.a_X,A.abp)
-w(A.aQd,B.a_P)
-w(A.aQk,B.a_W)
-w(A.aQg,B.a_S)
-w(A.aQb,B.a_N)
+w(A.abq,B.hS)
+w(A.a_Y,A.abq)
+w(A.aQe,B.a_Q)
+w(A.aQl,B.a_X)
 w(A.aQh,B.a_T)
-w(A.aQj,B.a_V)
-w(A.aQi,B.a_U)
-w(A.aQa,B.a_L)
-w(A.aQ7,B.a_J)
 w(A.aQc,B.a_O)
-w(A.aQf,B.a_Q)
+w(A.aQi,B.a_U)
+w(A.aQk,B.a_W)
+w(A.aQj,B.a_V)
+w(A.aQb,B.a_M)
 w(A.aQ8,B.a_K)
-w(A.aQ9,B.a_M)
-w(A.aQe,B.a_R)
-v(B.mQ,[A.aRH,A.aRr,A.aRs,A.aRt,A.aRz,A.aRA,A.aRB,A.aRC,A.aRD,A.aRE,A.aRF,A.aRG,A.aRu,A.aRv,A.aRw,A.aRx,A.aRy])
-x(A.abp,B.js)})()
-B.b4p(b.typeUniverse,JSON.parse('{"a_X":{"hS":[],"js":["dx","hS"]}}'))
+w(A.aQd,B.a_P)
+w(A.aQg,B.a_R)
+w(A.aQ9,B.a_L)
+w(A.aQa,B.a_N)
+w(A.aQf,B.a_S)
+v(B.mQ,[A.aRI,A.aRs,A.aRt,A.aRu,A.aRA,A.aRB,A.aRC,A.aRD,A.aRE,A.aRF,A.aRG,A.aRH,A.aRv,A.aRw,A.aRx,A.aRy,A.aRz])
+x(A.abq,B.js)})()
+B.b4p(b.typeUniverse,JSON.parse('{"a_Y":{"hS":[],"js":["dx","hS"]}}'))
 var y={c:B.aw("o4<dx,hS>")}};
-(a=>{a["Dfojpc+ti/0LU7vzv0F/jMJCoQw="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["VAhan8CTNw7DKdXkZsDS5g4i68I="]=a.current})($__dart_deferred_initializers__);
