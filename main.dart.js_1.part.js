@@ -1,26 +1,26 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var B,C,A={
-b3b(d,e,f){var x,w,v=null,u=new B.o4(C.mn,y.c),t=new B.o4(C.f_,y.c)
+b3a(d,e,f){var x,w,v=null,u=new B.o4(C.mn,y.c),t=new B.o4(C.f_,y.c)
 t=new A.a_Y(u,t)
-t.Tj(d,v,e,v)
+t.Ti(d,v,e,v)
 x=t.a
 w=u.r
 w.toString
 x.r=w
-u.r=A.bk6(t)
+u.r=A.bk5(t)
 return t},
-bk5(d,e){var x
+bk4(d,e){var x
 A:{x="\u6027\u80fd\u8bbe\u7f6e"
 if("views.login.welcome"===e){x="\u6b22\u8fce"
 break A}if("views.login.userName"===e){x="\u7528\u6237\u540d"
 break A}if("views.login.loginButton"===e){x="\u767b\u5f55"
-break A}if("views.home.greeting"===e){x=new A.aRt()
+break A}if("views.home.greeting"===e){x=new A.aRs()
 break A}if("devices.addDevice"===e){x="\u6dfb\u52a0\u8bbe\u5907"
 break A}if("devices.working"===e){x="\u5de5\u4f5c\u4e2d..."
 break A}if("devices.bluetoothWarning"===e){x="\u8be5\u9a71\u52a8\u7a0b\u5e8f\u65e0\u6cd5\u8bc6\u522b\u84dd\u7259\u8fde\u63a5\u3002\u8bf7\u4f7f\u7528 2.4G \u63a5\u6536\u5668\u6216\u7535\u7f06\u8fde\u63a5"
 break A}if("devices.noDevices"===e){x="\u672a\u53d1\u73b0\u8bbe\u5907"
 break A}if("devices.deviceStatus"===e){x="\u8bbe\u5907\u72b6\u6001"
-break A}if("devices.batteryLow"===e){x=new A.aRu()
+break A}if("devices.batteryLow"===e){x=new A.aRt()
 break A}if("devices.sleeping"===e){x="\u4f11\u7720\u4e2d"
 break A}if("sidebar.buttonMapping"===e){x="\u6309\u952e\u6620\u5c04"
 break A}if("sidebar.macroSetting"===e){x="\u5b8f\u8bbe\u7f6e"
@@ -30,8 +30,8 @@ break A}if("sidebar.backlightSetting"===e){x="\u80cc\u5149\u8bbe\u7f6e"
 break A}if("sidebar.profileManagement"===e){x="\u914d\u7f6e\u6587\u4ef6\u7ba1\u7406"
 break A}if("sidebar.deviceSetting"===e){x="\u8bbe\u5907\u8bbe\u7f6e"
 break A}if("sidebar.mouse"===e){x="\u9f20\u6807"
-break A}if("sidebar.batteryLabel"===e){x=new A.aRv()
-break A}if("sidebar.batteryCharging"===e){x=new A.aRB()
+break A}if("sidebar.batteryLabel"===e){x=new A.aRu()
+break A}if("sidebar.batteryCharging"===e){x=new A.aRA()
 break A}if("sidebar.batteryEmpty"===e){x="\u7535\u91cf \u2014"
 break A}if("sidebar.back"===e){x="\u8fd4\u56de"
 break A}if("windowControls.minimize"===e){x="\u6700\u5c0f\u5316"
@@ -66,7 +66,7 @@ break A}if("common.switchToLightMode"===e){x="\u5207\u6362\u5230\u6d45\u8272\u6a
 break A}if("common.switchToDarkMode"===e){x="\u5207\u6362\u5230\u6df1\u8272\u6a21\u5f0f"
 break A}if("common.forward"===e){x="\u5411\u524d"
 break A}if("common.reverse"===e){x="\u53cd\u5411"
-break A}if("common.secondsUnit"===e){x=new A.aRC()
+break A}if("common.secondsUnit"===e){x=new A.aRB()
 break A}if("common.back"===e){x="\u8fd4\u56de"
 break A}if("mouseCanvas.imageMissing"===e){x="\u9f20\u6807\u56fe\u7247\u7f3a\u5931"
 break A}if("mouseCanvas.restoreDefaultKeysTip"===e){x="\u60a8\u786e\u5b9a\u8981\u6062\u590d\u9ed8\u8ba4\u6309\u952e\u5417\uff1f"
@@ -75,11 +75,11 @@ break A}if("performance.dpiSettingsSubtitle"===e){x="\u914d\u7f6e\u7075\u654f\u5
 break A}if("performance.reportRate"===e){x="\u56de\u62a5\u7387"
 break A}if("performance.reportRateSubtitle"===e){x="\u9009\u62e9\u9f20\u6807\u5411\u8ba1\u7b97\u673a\u62a5\u544a\u6570\u636e\u7684\u9891\u7387"
 break A}if("performance.levels"===e){x="\u6863\u4f4d"
-break A}if("performance.dpiLevel"===e){x=new A.aRD()
+break A}if("performance.dpiLevel"===e){x=new A.aRC()
 break A}if("performance.dpiStageColor"===e){x="DPI \u6863\u4f4d\u989c\u8272"
 break A}if("performance.addStage"===e){x="\u6dfb\u52a0\u6863\u4f4d"
 break A}if("performance.removeStage"===e){x="\u5220\u9664\u6863\u4f4d"
-break A}if("performance.deleteStage"===e){x=new A.aRE()
+break A}if("performance.deleteStage"===e){x=new A.aRD()
 break A}if("parameter.sensorFeature"===e){x="\u4f20\u611f\u5668\u529f\u80fd"
 break A}if("parameter.sensorFeatureSubtitle"===e){x="\u9ad8\u7ea7\u5149\u5b66\u4f20\u611f\u5668\u5fae\u8c03\u4e0e\u6821\u51c6"
 break A}if("parameter.otherFeature"===e){x="\u8bbe\u5907\u529f\u80fd"
@@ -99,7 +99,7 @@ break A}if("parameter.performanceDesc"===e){x="\u5728\u6700\u9ad8\u54cd\u5e94\u9
 break A}if("parameter.performanceEco"===e){x="\u4f4e\u529f\u8017\u6a21\u5f0f (\u8282\u80fd)"
 break A}if("parameter.performanceOffice"===e){x="\u529e\u516c\u6a21\u5f0f"
 break A}if("parameter.performanceGaming"===e){x="\u9ad8\u6027\u80fd\u6a21\u5f0f (\u6e38\u620f)"
-break A}if("parameter.performanceMode"===e){x=new A.aRF()
+break A}if("parameter.performanceMode"===e){x=new A.aRE()
 break A}if("parameter.debounce"===e){x="\u6309\u952e\u9632\u6296\u5ef6\u8fdf"
 break A}if("parameter.debounceDesc"===e){x="\u8fc7\u6ee4\u673a\u68b0\u89e6\u70b9\u6296\u52a8\u5bfc\u81f4\u7684\u610f\u5916\u53cc\u51fb\u3002"
 break A}if("parameter.wheelDirection"===e){x="\u6eda\u8f6e\u65b9\u5411"
@@ -137,7 +137,7 @@ break A}if("actions.middle"===e){x="\u4e2d\u952e"
 break A}if("actions.forward"===e){x="\u524d\u8fdb"
 break A}if("actions.backward"===e){x="\u540e\u9000"
 break A}if("actions.dpiCycle"===e){x="DPI \u5faa\u73af"
-break A}if("actions.button"===e){x=new A.aRG()
+break A}if("actions.button"===e){x=new A.aRF()
 break A}if("actions.disable"===e){x="\u7981\u7528"
 break A}if("actions.buttonOff"===e){x="\u5173\u95ed\u6309\u952e"
 break A}if("actions.leftClick"===e){x="\u5de6\u952e"
@@ -159,7 +159,7 @@ break A}if("actions.reportRate"===e){x="\u56de\u62a5\u7387\u5faa\u73af"
 break A}if("actions.reportRateCycle"===e){x="\u56de\u62a5\u7387\u5faa\u73af"
 break A}if("actions.profileCycle"===e){x="\u914d\u7f6e\u6587\u4ef6\u5faa\u73af"
 break A}if("actions.sniper"===e){x="\u72d9\u51fb\u952e"
-break A}if("actions.macroPlay"===e){x=new A.aRH()
+break A}if("actions.macroPlay"===e){x=new A.aRG()
 break A}if("actions.volumeUp"===e){x="\u97f3\u91cf\u589e\u52a0"
 break A}if("actions.volumeDown"===e){x="\u97f3\u91cf\u51cf\u5c11"
 break A}if("actions.volumeMute"===e){x="\u9759\u97f3"
@@ -264,12 +264,12 @@ break A}if("macro.savedSuccess"===e){x="\u5b8f\u4fdd\u5b58\u6210\u529f"
 break A}if("macro.savedFailed"===e){x="\u5b8f\u4fdd\u5b58\u5931\u8d25"
 break A}if("macro.allSlotsUsed"===e){x="\u6240\u6709 16 \u4e2a\u5b8f\u69fd\u4f4d\u5747\u5df2\u88ab\u4f7f\u7528"
 break A}if("macro.fixedDelayRange"===e){x="\u56fa\u5b9a\u5ef6\u8fdf\u5fc5\u987b\u5728 1 \u5230 100 \u6beb\u79d2\u4e4b\u95f4"
-break A}if("macro.saveFailed"===e){x=new A.aRI()
+break A}if("macro.saveFailed"===e){x=new A.aRH()
 break A}if("macro.loopCountRange"===e){x="\u5faa\u73af\u6b21\u6570\u5fc5\u987b\u5728 1 \u5230 255 \u4e4b\u95f4"
-break A}if("macro.nameTooLong"===e){x=new A.aRw()
+break A}if("macro.nameTooLong"===e){x=new A.aRv()
 break A}if("macro.actionCountRange"===e){x="\u5b8f\u5fc5\u987b\u5305\u542b 1 \u5230 30 \u4e2a\u64cd\u4f5c"
-break A}if("macro.delayRange"===e){x=new A.aRx()
-break A}if("macro.unsupportedKey"===e){x=new A.aRy()
+break A}if("macro.delayRange"===e){x=new A.aRw()
+break A}if("macro.unsupportedKey"===e){x=new A.aRx()
 break A}if("macro.modes.loop"===e){x="\u5faa\u73af"
 break A}if("macro.modes.stopOnAnyKey"===e){x="\u6309\u4efb\u610f\u952e\u6216\u9f20\u6807\u70b9\u51fb\u505c\u6b62"
 break A}if("macro.modes.playOnHold"===e){x="\u6309\u4f4f\u64ad\u653e"
@@ -287,45 +287,46 @@ break A}if("appSettings.communities"===e){x="NEWMEN HUB \u793e\u533a"
 break A}if("appSettings.performanceSettings"===e)break A
 if("appSettings.lowBatteryThreshold"===e){x="\u4f4e\u7535\u91cf\u63d0\u9192\u9608\u503c"
 break A}if("appSettings.about"===e){x="\u5173\u4e8e NEWMEN HUB"
-break A}if("appSettings.currentVersion"===e){x=new A.aRz()
-break A}if("appSettings.officialWebsite"===e){x=new A.aRA()
+break A}if("appSettings.currentVersion"===e){x=new A.aRy()
+break A}if("appSettings.officialWebsite"===e){x=new A.aRz()
 break A}if("appSettings.lightTheme"===e){x="\u6d45\u8272\u6a21\u5f0f"
 break A}if("appSettings.darkTheme"===e){x="\u6df1\u8272\u6a21\u5f0f"
 break A}if("appSettings.systemTheme"===e){x="\u8ddf\u968f\u7cfb\u7edf"
 break A}x=null
 break A}return x},
-bk6(d){return new A.aRJ(d)},
+bk5(d){return new A.aRI(d)},
 a_Y:function a_Y(d,e){var _=this
 _.ch=d
 _.k4=_.k3=_.k2=_.k1=_.id=_.go=_.fy=_.fx=_.fr=_.dy=_.dx=_.db=_.cy=_.CW=$
 _.a=e
 _.ay=_.ax=_.at=_.as=_.Q=_.z=_.y=_.x=_.w=_.r=_.f=_.e=_.d=_.b=$},
-aQf:function aQf(){},
-aQm:function aQm(){},
-aQi:function aQi(){},
-aQd:function aQd(){},
-aQj:function aQj(){},
+aQe:function aQe(){},
 aQl:function aQl(){},
+aQh:function aQh(){},
+aQc:function aQc(){},
+aQi:function aQi(){},
 aQk:function aQk(){},
-aQc:function aQc(d,e){var _=this
+aQj:function aQj(){},
+aQb:function aQb(d,e){var _=this
+_.c=d
+_.d=$
+_.a=e
+_.b=$},
+aQ8:function aQ8(){},
+aQd:function aQd(){},
+aQg:function aQg(d,e){var _=this
 _.c=d
 _.d=$
 _.a=e
 _.b=$},
 aQ9:function aQ9(){},
-aQe:function aQe(){},
-aQh:function aQh(d,e){var _=this
-_.c=d
-_.d=$
-_.a=e
-_.b=$},
 aQa:function aQa(){},
-aQb:function aQb(){},
-aQg:function aQg(){},
-aRJ:function aRJ(d){this.a=d},
+aQf:function aQf(){},
+aRI:function aRI(d){this.a=d},
+aRs:function aRs(){},
 aRt:function aRt(){},
 aRu:function aRu(){},
-aRv:function aRv(){},
+aRA:function aRA(){},
 aRB:function aRB(){},
 aRC:function aRC(){},
 aRD:function aRD(){},
@@ -333,425 +334,424 @@ aRE:function aRE(){},
 aRF:function aRF(){},
 aRG:function aRG(){},
 aRH:function aRH(){},
-aRI:function aRI(){},
+aRv:function aRv(){},
 aRw:function aRw(){},
 aRx:function aRx(){},
 aRy:function aRy(){},
 aRz:function aRz(){},
-aRA:function aRA(){},
 abq:function abq(){}}
 B=c[0]
 C=c[2]
 A=a.updateHolder(c[3],A)
 A.a_Y.prototype={
-i(d,e){var x=this.ch.GS(e)
-return x==null?this.a.GS(e):x},
+i(d,e){var x=this.ch.GR(e)
+return x==null?this.a.GR(e):x},
 gjS(){var x=this.CW
 return x===$?this.CW=this:x},
 goi(){var x=this,w=x.cy
 if(w===$){x.gjS()
 x.cy!==$&&B.ax()
-w=x.cy=new A.aQf()}return w},
+w=x.cy=new A.aQe()}return w},
 gkE(){var x=this,w=x.db
 if(w===$){x.gjS()
 x.db!==$&&B.ax()
-w=x.db=new A.aQm()}return w},
+w=x.db=new A.aQl()}return w},
 gfp(d){var x=this,w=x.dy
 if(w===$){x.gjS()
 x.dy!==$&&B.ax()
-w=x.dy=new A.aQi()}return w},
+w=x.dy=new A.aQh()}return w},
 gen(){var x=this,w=x.fr
 if(w===$){x.gjS()
 x.fr!==$&&B.ax()
-w=x.fr=new A.aQd()}return w},
-gP3(){var x=this,w=x.fx
+w=x.fr=new A.aQc()}return w},
+gP2(){var x=this,w=x.fx
 if(w===$){x.gjS()
 x.fx!==$&&B.ax()
-w=x.fx=new A.aQj()}return w},
+w=x.fx=new A.aQi()}return w},
 gis(d){var x=this,w=x.fy
 if(w===$){x.gjS()
 x.fy!==$&&B.ax()
-w=x.fy=new A.aQl()}return w},
+w=x.fy=new A.aQk()}return w},
 gdg(){var x=this,w=x.go
 if(w===$){x.gjS()
 x.go!==$&&B.ax()
-w=x.go=new A.aQk()}return w},
+w=x.go=new A.aQj()}return w},
 geI(){var x,w=this,v=w.id
 if(v===$){x=w.gjS()
 w.id!==$&&B.ax()
-v=w.id=new A.aQc(x,x)}return v},
+v=w.id=new A.aQb(x,x)}return v},
 gY(d){var x=this,w=x.k1
 if(w===$){x.gjS()
 x.k1!==$&&B.ax()
-w=x.k1=new A.aQ9()}return w},
+w=x.k1=new A.aQ8()}return w},
 gmJ(){var x=this,w=x.k2
 if(w===$){x.gjS()
 x.k2!==$&&B.ax()
-w=x.k2=new A.aQe()}return w},
+w=x.k2=new A.aQd()}return w},
 gbB(){var x,w=this,v=w.k3
 if(v===$){x=w.gjS()
 w.k3!==$&&B.ax()
-v=w.k3=new A.aQh(x,x)}return v},
+v=w.k3=new A.aQg(x,x)}return v},
 ge2(){var x=this,w=x.k4
 if(w===$){x.gjS()
 x.k4!==$&&B.ax()
-w=x.k4=new A.aQa()}return w},
+w=x.k4=new A.aQ9()}return w},
 gp7(){return this.ch}}
-A.aQf.prototype={
-gpN(){return"\u6dfb\u52a0\u8bbe\u5907"},
-gQW(){return"\u5de5\u4f5c\u4e2d..."},
-gM8(){return"\u8be5\u9a71\u52a8\u7a0b\u5e8f\u65e0\u6cd5\u8bc6\u522b\u84dd\u7259\u8fde\u63a5\u3002\u8bf7\u4f7f\u7528 2.4G \u63a5\u6536\u5668\u6216\u7535\u7f06\u8fde\u63a5"},
-gS8(){return"\u4f11\u7720\u4e2d"}}
-A.aQm.prototype={
-ga12(){return"\u6309\u952e\u6620\u5c04"},
-gEQ(){return"\u5b8f\u8bbe\u7f6e"},
-ga6q(){return"\u6027\u80fd\u8bbe\u7f6e"},
-ga6j(){return"\u53c2\u6570\u8bbe\u7f6e"},
-ga0T(){return"\u80cc\u5149\u8bbe\u7f6e"},
-ga6E(){return"\u914d\u7f6e\u6587\u4ef6\u7ba1\u7406"},
-gmJ(){return"\u8bbe\u5907\u8bbe\u7f6e"},
-gwS(d){return"\u8fd4\u56de"}}
-A.aQi.prototype={
-gEW(){return"\u9f20\u6807"},
-gOI(){return"\u952e\u76d8"},
-gHk(){return"\u7279\u6b8a\u952e"},
-gbB(){return"\u5b8f"},
-gP2(){return"\u4fee\u9970\u952e"},
-gtu(){return"\u4efb\u610f\u6309\u952e"},
-ga5u(){return"\u9f20\u6807\u529f\u80fd"},
-ga5w(){return"\u6eda\u8f6e\u529f\u80fd"},
-ga5C(){return"\u591a\u5a92\u4f53"},
-ga1z(){return"\u5feb\u6377\u529f\u80fd"},
-ga1n(){return"\u7ec4\u5408\u952e"},
-ga54(){return"\u5b57\u6bcd\u3001\u7b26\u53f7\u548c\u6570\u5b57\u952e"},
-ga5H(){return"\u5c0f\u952e\u76d8\u6309\u952e"}}
-A.aQd.prototype={
-gjH(d){return"\u4fdd\u5b58"},
-gih(d){return"\u53d6\u6d88"},
-ga1w(d){return"\u786e\u8ba4"},
-ga2G(){return"\u5b8c\u6210"},
-gFW(){return"\u6062\u590d\u9ed8\u8ba4\u503c"},
-ga7s(){return"\u63d0\u793a"},
-gRV(){return"\u8bbe\u7f6e"},
-gy5(d){return"\u8bed\u8a00"},
-gTc(){return"\u5207\u6362\u5230\u6d45\u8272\u6a21\u5f0f"},
-gTb(){return"\u5207\u6362\u5230\u6df1\u8272\u6a21\u5f0f"},
-gwS(d){return"\u8fd4\u56de"}}
-A.aQj.prototype={
-ga4b(){return"\u9f20\u6807\u56fe\u7247\u7f3a\u5931"},
-ga7c(){return"\u60a8\u786e\u5b9a\u8981\u6062\u590d\u9ed8\u8ba4\u6309\u952e\u5417\uff1f"}}
-A.aQl.prototype={
-ga2N(){return"DPI \u8bbe\u7f6e"},
-ga2O(){return"\u914d\u7f6e\u7075\u654f\u5ea6\u6863\u4f4d\u3001\u6307\u793a\u706f\u989c\u8272\u53ca\u542f\u7528\u6863\u4f4d"},
-gQ4(){return"\u56de\u62a5\u7387"},
-ga76(){return"\u9009\u62e9\u9f20\u6807\u5411\u8ba1\u7b97\u673a\u62a5\u544a\u6570\u636e\u7684\u9891\u7387"},
-ga55(){return"\u6863\u4f4d"},
-a2M(d){return"DPI "+d},
-ga2P(){return"DPI \u6863\u4f4d\u989c\u8272"},
-gLM(){return"\u6dfb\u52a0\u6863\u4f4d"},
-a2p(d){return"\u5220\u9664 DPI \u6863\u4f4d "+d}}
-A.aQk.prototype={
-gRH(){return"\u4f20\u611f\u5668\u529f\u80fd"},
-gRI(){return"\u9ad8\u7ea7\u5149\u5b66\u4f20\u611f\u5668\u5fae\u8c03\u4e0e\u6821\u51c6"},
-ga6a(){return"\u8bbe\u5907\u529f\u80fd"},
-ga6b(){return"\u54cd\u5e94\u65f6\u95f4\u3001\u7535\u6e90\u7ba1\u7406\u53ca\u673a\u68b0\u8bbe\u7f6e"},
-ga7g(){return"\u5e73\u6ed1\u63a7\u5236"},
-ga7h(){return"\u5e73\u6ed1\u5fae\u5c0f\u79fb\u52a8\uff0c\u51cf\u5c11\u9ad8 DPI \u4e0b\u7684\u5149\u6807\u6296\u52a8\u3002"},
-ga0t(){return"\u76f4\u7ebf\u4fee\u6b63"},
-ga0u(){return"\u5c06\u6c34\u5e73\u6216\u5782\u76f4\u79fb\u52a8\u9501\u5b9a\u4e3a\u76f4\u7ebf\u3002"},
-ga5b(){return"\u9759\u9ed8\u9ad8\u5ea6 (LOD)"},
-ga5c(){return"\u62ac\u8d77\u9f20\u6807\u65f6\u4f20\u611f\u5668\u505c\u6b62\u8ffd\u8e2a\u7684\u9ad8\u5ea6\u3002"},
-ga0v(){return"\u89d2\u5ea6\u5fae\u8c03"},
-ga0w(){return"\u65cb\u8f6c\u8ffd\u8e2a\u5750\u6807\u8f74\u4ee5\u5339\u914d\u624b\u63e1\u503e\u659c\u89d2\u5ea6\u3002"},
-ga2k(){return"\u51cf\u5c0f\u89d2\u5ea6"},
-ga4d(){return"\u589e\u5927\u89d2\u5ea6"},
-gis(d){return"\u6027\u80fd\u6a21\u5f0f"},
-ga6l(){return"\u5728\u6700\u9ad8\u54cd\u5e94\u901f\u5ea6\u548c\u7535\u6c60\u7eed\u822a\u4e4b\u95f4\u5e73\u8861\u4f20\u611f\u5668\u5e27\u7387\u3002"},
-ga6m(){return"\u4f4e\u529f\u8017\u6a21\u5f0f (\u8282\u80fd)"},
-ga6p(){return"\u529e\u516c\u6a21\u5f0f"},
-ga6n(){return"\u9ad8\u6027\u80fd\u6a21\u5f0f (\u6e38\u620f)"},
-a6o(d){return"\u6a21\u5f0f "+d},
-gDw(){return"\u6309\u952e\u9632\u6296\u5ef6\u8fdf"},
-gDx(){return"\u8fc7\u6ee4\u673a\u68b0\u89e6\u70b9\u6296\u52a8\u5bfc\u81f4\u7684\u610f\u5916\u53cc\u51fb\u3002"},
-ga80(){return"\u6eda\u8f6e\u65b9\u5411"},
-ga81(){return"\u53cd\u8f6c\u6eda\u8f6e\u6eda\u52a8\u65b9\u5411\u4ee5\u7b26\u5408\u4e2a\u4eba\u504f\u597d\u3002"},
-ga82(){return"\u6b63\u5411 (\u6807\u51c6)"},
-ga83(){return"\u53cd\u5411 (\u53cd\u8f6c)"},
-gS6(){return"\u4f11\u7720\u65f6\u95f4"},
-gS7(){return"\u8fdb\u5165\u8d85\u4f4e\u529f\u8017\u5f85\u673a\u6a21\u5f0f\u524d\u7684\u65e0\u64cd\u4f5c\u8d85\u65f6\u65f6\u95f4\u3002"}}
-A.aQc.prototype={
-gEV(d){return"\u6a21\u5f0f"},
-ga5r(){return"\u9009\u62e9\u52a8\u6001\u706f\u6548\u6a21\u5f0f\u6216\u9759\u6001\u7167\u660e\u6548\u679c"},
-gRz(){return"\u9009\u62e9\u6a21\u5f0f"},
-gcf(d){return"\u989c\u8272"},
-ga1m(){return"\u5fae\u8c03\u9759\u6001\u989c\u8272\u7684\u9971\u548c\u5ea6\u3001\u8272\u8c03\u548c\u4eae\u5ea6"},
-ga1l(){return"\u6240\u9009\u6a21\u5f0f\u81ea\u52a8\u7ba1\u7406\u706f\u5149\u989c\u8272"},
-ghM(){return"\u4eae\u5ea6"},
-ga0W(){return"\u8c03\u8282\u80cc\u5149 LED \u7684\u53d1\u5149\u5f3a\u5ea6\u3002"},
-gSb(d){return"\u901f\u5ea6"},
-gSc(){return"\u8c03\u8282\u52a8\u6001\u706f\u6548\u7684\u52a8\u753b\u53d8\u6362\u901f\u5ea6\u3002"},
-ga6x(){return"\u7701\u7535"},
-ga6y(){return"\u5173\u95ed\u706f\u5149\u4ee5\u8282\u7701\u7535\u91cf\u524d\u7684\u65e0\u64cd\u4f5c\u8d85\u65f6\u65f6\u95f4\u3002"},
-ga1k(){return"\u989c\u8272\u4ee3\u7801"},
-gip(){var x=this.d
-return x===$?this.d=new A.aQb():x}}
-A.aQ9.prototype={
-gjw(d){return"\u5de6\u952e"},
-gyL(d){return"\u53f3\u952e"},
-gyh(){return"\u4e2d\u952e"},
-gow(d){return"\u524d\u8fdb"},
-gwT(){return"\u540e\u9000"},
-gxp(){return"DPI \u5faa\u73af"},
-Mc(d,e){return"\u6309\u952e "+e},
-gxo(d){return"\u7981\u7528"},
-gGu(){return"\u5411\u4e0a\u6eda\u52a8"},
-gGt(){return"\u5411\u4e0b\u6eda\u52a8"},
-gG5(){return"\u5411\u5de6\u6447\u6446"},
-gG6(){return"\u5411\u53f3\u6447\u6446"},
-gDS(){return"DPI +"},
-gDR(){return"DPI -"},
-gFT(){return"\u56de\u62a5\u7387\u5faa\u73af"},
-gPC(){return"\u914d\u7f6e\u6587\u4ef6\u5faa\u73af"},
-gHi(){return"\u72d9\u51fb\u952e"},
-gQM(){return"\u97f3\u91cf\u589e\u52a0"},
-gQK(){return"\u97f3\u91cf\u51cf\u5c11"},
-gQL(){return"\u9759\u97f3"},
-gP6(){return"\u4e0b\u4e00\u9996"},
-gPA(){return"\u4e0a\u4e00\u9996"},
-gHm(d){return"\u505c\u6b62"},
-gPv(){return"\u64ad\u653e / \u6682\u505c"},
-gQS(){return"\u7f51\u7edc\u641c\u7d22"},
-gQQ(){return"\u4e3b\u9875"},
-gQN(){return"\u7f51\u9875\u540e\u9000"},
-gQP(){return"\u7f51\u9875\u524d\u8fdb"},
-gQT(){return"\u505c\u6b62\u52a0\u8f7d"},
-gQR(){return"\u7f51\u9875\u5237\u65b0"},
-gQO(){return"\u6536\u85cf\u5939"},
-gOY(){return"\u5a92\u4f53\u64ad\u653e\u5668"},
-gNu(){return"\u7535\u5b50\u90ae\u4ef6"},
-gMf(){return"\u8ba1\u7b97\u5668"},
-gP5(){return"\u6211\u7684\u7535\u8111"},
-gEF(){return"\u5de6 Alt"},
-gEG(){return"\u5de6 Ctrl"},
-gEI(){return"\u5de6 Win"},
-gEH(){return"\u5de6 Shift"},
-gQc(){return"\u53f3 Alt"},
-gQd(){return"\u53f3 Ctrl"},
-gQf(){return"\u53f3 Win"},
-gQe(){return"\u53f3 Shift"},
-gtu(){return"\u4efb\u610f\u6309\u952e"},
-gMk(){return"\u5927\u5199\u9501\u5b9a"},
-gHj(){return"\u7a7a\u683c"},
-gNz(){return"\u56de\u8f66"},
-gNA(){return"Esc"},
-gM0(){return"\u9000\u683c"},
-gQh(){return"Tab"},
-gOp(d){return"\u63d2\u5165 (Insert)"},
-gOk(){return"Home"},
-gPo(){return"\u5411\u4e0a\u7ffb\u9875"},
-gPn(){return"\u5411\u4e0b\u7ffb\u9875"},
-gGA(d){return"\u5220\u9664 (Delete)"},
-ghS(d){return"End"},
-gQo(){return"\u5411\u4e0a\u7bad\u5934"},
-gNg(){return"\u5411\u4e0b\u7bad\u5934"},
-ga53(){return"\u5411\u5de6\u7bad\u5934"},
-ga7f(){return"\u5411\u53f3\u7bad\u5934"},
-gPB(){return"\u622a\u5c4f (Print Screen)"},
-gH0(){return"\u6eda\u52a8\u9501\u5b9a"},
-gPs(d){return"\u6682\u505c (Pause)"},
-gPa(){return"\u6570\u5b57\u9501\u5b9a"},
-gPd(){return"\u5c0f\u952e\u76d8\u56de\u8f66"},
-gPc(){return"\u5c0f\u952e\u76d8\u5220\u9664"},
-ga5S(){return"\u5c0f\u952e\u76d8 +"},
-ga5W(){return"\u5c0f\u952e\u76d8 -"},
-ga5V(){return"\u5c0f\u952e\u76d8 *"},
-ga5T(){return"\u5c0f\u952e\u76d8 /"},
-ga5U(){return"\u5c0f\u952e\u76d8 ="},
-ga5I(){return"\u5c0f\u952e\u76d8 0"},
-ga5J(){return"\u5c0f\u952e\u76d8 1"},
-ga5K(){return"\u5c0f\u952e\u76d8 2"},
-ga5L(){return"\u5c0f\u952e\u76d8 3"},
-ga5M(){return"\u5c0f\u952e\u76d8 4"},
-ga5N(){return"\u5c0f\u952e\u76d8 5"},
-ga5O(){return"\u5c0f\u952e\u76d8 6"},
-ga5P(){return"\u5c0f\u952e\u76d8 7"},
-ga5Q(){return"\u5c0f\u952e\u76d8 8"},
-ga5R(){return"\u5c0f\u952e\u76d8 9"}}
 A.aQe.prototype={
-ga5v(){return"\u9f20\u6807\u56fa\u4ef6\u7248\u672c"},
-ga2H(){return"\u63a5\u6536\u5668\u56fa\u4ef6\u7248\u672c"},
-ga29(){return"\u5f53\u524d\u7248\u672c"},
-ga1c(){return"\u68c0\u67e5\u66f4\u65b0"},
-ga7R(){return"\u66f4\u65b0\u56fa\u4ef6"}}
+gpN(){return"\u6dfb\u52a0\u8bbe\u5907"},
+gQV(){return"\u5de5\u4f5c\u4e2d..."},
+gM7(){return"\u8be5\u9a71\u52a8\u7a0b\u5e8f\u65e0\u6cd5\u8bc6\u522b\u84dd\u7259\u8fde\u63a5\u3002\u8bf7\u4f7f\u7528 2.4G \u63a5\u6536\u5668\u6216\u7535\u7f06\u8fde\u63a5"},
+gS7(){return"\u4f11\u7720\u4e2d"}}
+A.aQl.prototype={
+ga11(){return"\u6309\u952e\u6620\u5c04"},
+gEP(){return"\u5b8f\u8bbe\u7f6e"},
+ga6p(){return"\u6027\u80fd\u8bbe\u7f6e"},
+ga6i(){return"\u53c2\u6570\u8bbe\u7f6e"},
+ga0S(){return"\u80cc\u5149\u8bbe\u7f6e"},
+ga6D(){return"\u914d\u7f6e\u6587\u4ef6\u7ba1\u7406"},
+gmJ(){return"\u8bbe\u5907\u8bbe\u7f6e"},
+gwO(d){return"\u8fd4\u56de"}}
 A.aQh.prototype={
-gOQ(){return"\u5b8f\u5217\u8868"},
-ga5i(){return"\u5b8f\u540d\u79f0"},
-gF_(){return"\u65b0\u5efa\u5b8f"},
-gDD(){return"\u5220\u9664\u5b8f"},
-ga5j(){return"\u5b8f\u7c7b\u578b"},
-ga5f(){return"\u5faa\u73af\u6b21\u6570"},
-ga4X(){return"\u6309\u952e\u5ef6\u8fdf\u6a21\u5f0f"},
-ga6Q(){return"\u5f55\u5236\u5ef6\u8fdf"},
-ga3j(){return"\u56fa\u5b9a\u5ef6\u8fdf"},
-ga3k(){return"\u56fa\u5b9a\u5ef6\u8fdf (\u6beb\u79d2)"},
-gSe(){return"\u5f00\u59cb\u5f55\u5236"},
-gSg(){return"\u505c\u6b62\u5f55\u5236"},
-ga6O(){return"\u5f55\u5236"},
-ga6R(){return"\u5f55\u5236\u4e2d \u2014 \u8bf7\u6309\u4e0b\u6309\u952e\u2026"},
-ga5E(){return"\u672a\u5f55\u5236\u4efb\u4f55\u4e8b\u4ef6"},
-ga78(d){return"\u91cd\u7f6e"},
+gEV(){return"\u9f20\u6807"},
+gOH(){return"\u952e\u76d8"},
+gHj(){return"\u7279\u6b8a\u952e"},
+gbB(){return"\u5b8f"},
+gP1(){return"\u4fee\u9970\u952e"},
+gtt(){return"\u4efb\u610f\u6309\u952e"},
+ga5t(){return"\u9f20\u6807\u529f\u80fd"},
+ga5v(){return"\u6eda\u8f6e\u529f\u80fd"},
+ga5B(){return"\u591a\u5a92\u4f53"},
+ga1y(){return"\u5feb\u6377\u529f\u80fd"},
+ga1m(){return"\u7ec4\u5408\u952e"},
+ga53(){return"\u5b57\u6bcd\u3001\u7b26\u53f7\u548c\u6570\u5b57\u952e"},
+ga5G(){return"\u5c0f\u952e\u76d8\u6309\u952e"}}
+A.aQc.prototype={
 gjH(d){return"\u4fdd\u5b58"},
 gih(d){return"\u53d6\u6d88"},
-gP7(){return"\u672a\u914d\u7f6e\u5b8f"},
-gP8(){return"\u521b\u5efa\u5b8f\u4ee5\u5f55\u5236\u6309\u952e\u5e8f\u5217\u548c\u9f20\u6807\u64cd\u4f5c\u3002"},
-ga24(){return"\u521b\u5efa\u5b8f"},
-gRA(){return"\u8bf7\u9009\u62e9\u8981\u7f16\u8f91\u7684\u5feb\u6377\u952e"},
-gRB(){return"\u4ece\u4fa7\u8fb9\u680f\u5217\u8868\u4e2d\u9009\u62e9\u4e00\u4e2a\u5b8f\u6216\u521b\u5efa\u4e00\u4e2a\u65b0\u5b8f\u3002"},
-ga8_(){return"\u6eda\u8f6e"},
-ga4Y(){return"\u6309\u952e\u6309\u4e0b"},
-ga5_(){return"\u6309\u952e\u62ac\u8d77"},
-ga6X(){return"\u79fb\u9664\u64cd\u4f5c"},
-gRp(){return"\u5b8f\u4fdd\u5b58\u6210\u529f"},
-gv9(){return"\u5b8f\u4fdd\u5b58\u5931\u8d25"},
-gLP(){return"\u6240\u6709 16 \u4e2a\u5b8f\u69fd\u4f4d\u5747\u5df2\u88ab\u4f7f\u7528"},
-gE9(){return"\u56fa\u5b9a\u5ef6\u8fdf\u5fc5\u987b\u5728 1 \u5230 100 \u6beb\u79d2\u4e4b\u95f4"},
-Ro(d){return"\u5b8f\u4fdd\u5b58\u5931\u8d25: "+d},
-ga5g(){return"\u5faa\u73af\u6b21\u6570\u5fc5\u987b\u5728 1 \u5230 255 \u4e4b\u95f4"},
-EX(d){return"\u5b8f\u540d\u79f0\u957f\u5ea6\u4e0d\u80fd\u8d85\u8fc7 "+d+" \u4e2a\u5b57\u7b26"},
-ga0j(){return"\u5b8f\u5fc5\u987b\u5305\u542b 1 \u5230 30 \u4e2a\u64cd\u4f5c"},
-a2o(d){return"\u64cd\u4f5c "+d+" \u7684\u5ef6\u8fdf\u5fc5\u987b\u5728 0 \u5230 127 \u4e4b\u95f4"},
-a7L(d){return"\u64cd\u4f5c "+d+" \u5305\u542b\u4e0d\u53d7\u652f\u6301\u7684\u6309\u952e\u4ee3\u7801"},
-gip(){var x=this.d
-return x===$?this.d=new A.aQg():x}}
-A.aQa.prototype={
-gzY(){return"\u7cfb\u7edf"},
-gy5(d){return"\u8bed\u8a00"},
-gG_(){return"\u4e3b\u9898"},
-gEt(){return"\u5e2e\u52a9"},
-ga37(){return"\u5e38\u89c1\u95ee\u9898"},
-ga2e(){return"\u5ba2\u6237\u670d\u52a1"},
-ga4Z(){return"\u6309\u952e\u6d4b\u8bd5"},
-ga6D(){return"\u4ea7\u54c1\u8bf4\u660e\u4e66"},
-ga2X(){return"\u9a71\u52a8\u95ee\u9898\u53cd\u9988"},
-ga1o(){return"NEWMEN HUB \u793e\u533a"},
-gFs(){return"\u6027\u80fd\u8bbe\u7f6e"},
-ga5h(){return"\u4f4e\u7535\u91cf\u63d0\u9192\u9608\u503c"},
-gCg(){return"\u5173\u4e8e NEWMEN HUB"},
-a2a(d){return"\u5f53\u524d\u7248\u672c: "+d},
-a5Y(d){return"\u5b98\u65b9\u7f51\u7ad9: "+d},
-ga56(){return"\u6d45\u8272\u6a21\u5f0f"},
-ga2h(){return"\u6df1\u8272\u6a21\u5f0f"},
-gTe(){return"\u8ddf\u968f\u7cfb\u7edf"}}
+ga1v(d){return"\u786e\u8ba4"},
+ga2F(){return"\u5b8c\u6210"},
+gFV(){return"\u6062\u590d\u9ed8\u8ba4\u503c"},
+ga7r(){return"\u63d0\u793a"},
+gRU(){return"\u8bbe\u7f6e"},
+gy_(d){return"\u8bed\u8a00"},
+gTb(){return"\u5207\u6362\u5230\u6d45\u8272\u6a21\u5f0f"},
+gTa(){return"\u5207\u6362\u5230\u6df1\u8272\u6a21\u5f0f"},
+gwO(d){return"\u8fd4\u56de"}}
+A.aQi.prototype={
+ga4a(){return"\u9f20\u6807\u56fe\u7247\u7f3a\u5931"},
+ga7b(){return"\u60a8\u786e\u5b9a\u8981\u6062\u590d\u9ed8\u8ba4\u6309\u952e\u5417\uff1f"}}
+A.aQk.prototype={
+ga2M(){return"DPI \u8bbe\u7f6e"},
+ga2N(){return"\u914d\u7f6e\u7075\u654f\u5ea6\u6863\u4f4d\u3001\u6307\u793a\u706f\u989c\u8272\u53ca\u542f\u7528\u6863\u4f4d"},
+gQ3(){return"\u56de\u62a5\u7387"},
+ga75(){return"\u9009\u62e9\u9f20\u6807\u5411\u8ba1\u7b97\u673a\u62a5\u544a\u6570\u636e\u7684\u9891\u7387"},
+ga54(){return"\u6863\u4f4d"},
+a2L(d){return"DPI "+d},
+ga2O(){return"DPI \u6863\u4f4d\u989c\u8272"},
+gLL(){return"\u6dfb\u52a0\u6863\u4f4d"},
+a2o(d){return"\u5220\u9664 DPI \u6863\u4f4d "+d}}
+A.aQj.prototype={
+gRF(){return"\u4f20\u611f\u5668\u529f\u80fd"},
+gRH(){return"\u9ad8\u7ea7\u5149\u5b66\u4f20\u611f\u5668\u5fae\u8c03\u4e0e\u6821\u51c6"},
+ga69(){return"\u8bbe\u5907\u529f\u80fd"},
+ga6a(){return"\u54cd\u5e94\u65f6\u95f4\u3001\u7535\u6e90\u7ba1\u7406\u53ca\u673a\u68b0\u8bbe\u7f6e"},
+ga7f(){return"\u5e73\u6ed1\u63a7\u5236"},
+ga7g(){return"\u5e73\u6ed1\u5fae\u5c0f\u79fb\u52a8\uff0c\u51cf\u5c11\u9ad8 DPI \u4e0b\u7684\u5149\u6807\u6296\u52a8\u3002"},
+ga0s(){return"\u76f4\u7ebf\u4fee\u6b63"},
+ga0t(){return"\u5c06\u6c34\u5e73\u6216\u5782\u76f4\u79fb\u52a8\u9501\u5b9a\u4e3a\u76f4\u7ebf\u3002"},
+ga5a(){return"\u9759\u9ed8\u9ad8\u5ea6 (LOD)"},
+ga5b(){return"\u62ac\u8d77\u9f20\u6807\u65f6\u4f20\u611f\u5668\u505c\u6b62\u8ffd\u8e2a\u7684\u9ad8\u5ea6\u3002"},
+ga0u(){return"\u89d2\u5ea6\u5fae\u8c03"},
+ga0v(){return"\u65cb\u8f6c\u8ffd\u8e2a\u5750\u6807\u8f74\u4ee5\u5339\u914d\u624b\u63e1\u503e\u659c\u89d2\u5ea6\u3002"},
+ga2j(){return"\u51cf\u5c0f\u89d2\u5ea6"},
+ga4c(){return"\u589e\u5927\u89d2\u5ea6"},
+gis(d){return"\u6027\u80fd\u6a21\u5f0f"},
+ga6k(){return"\u5728\u6700\u9ad8\u54cd\u5e94\u901f\u5ea6\u548c\u7535\u6c60\u7eed\u822a\u4e4b\u95f4\u5e73\u8861\u4f20\u611f\u5668\u5e27\u7387\u3002"},
+ga6l(){return"\u4f4e\u529f\u8017\u6a21\u5f0f (\u8282\u80fd)"},
+ga6o(){return"\u529e\u516c\u6a21\u5f0f"},
+ga6m(){return"\u9ad8\u6027\u80fd\u6a21\u5f0f (\u6e38\u620f)"},
+a6n(d){return"\u6a21\u5f0f "+d},
+gDu(){return"\u6309\u952e\u9632\u6296\u5ef6\u8fdf"},
+gDv(){return"\u8fc7\u6ee4\u673a\u68b0\u89e6\u70b9\u6296\u52a8\u5bfc\u81f4\u7684\u610f\u5916\u53cc\u51fb\u3002"},
+ga8_(){return"\u6eda\u8f6e\u65b9\u5411"},
+ga80(){return"\u53cd\u8f6c\u6eda\u8f6e\u6eda\u52a8\u65b9\u5411\u4ee5\u7b26\u5408\u4e2a\u4eba\u504f\u597d\u3002"},
+ga81(){return"\u6b63\u5411 (\u6807\u51c6)"},
+ga82(){return"\u53cd\u5411 (\u53cd\u8f6c)"},
+gS5(){return"\u4f11\u7720\u65f6\u95f4"},
+gS6(){return"\u8fdb\u5165\u8d85\u4f4e\u529f\u8017\u5f85\u673a\u6a21\u5f0f\u524d\u7684\u65e0\u64cd\u4f5c\u8d85\u65f6\u65f6\u95f4\u3002"}}
 A.aQb.prototype={
-ga1x(){return"\u5e38\u4eae"},
-gS2(){return"\u5355\u8272\u547c\u5438"},
-ga5z(){return"\u591a\u8272\u547c\u5438"},
-ga5A(){return"\u591a\u8272\u9713\u8679"},
-ga7p(){return"\u6d41\u5149\u8dd1\u9a6c"},
-ga2g(){return"\u4e03\u5f69\u6ce2\u6d6a"},
-ga2f(){return"\u5149\u8c31\u5faa\u73af"},
-ga7o(){return"\u8dd1\u9a6c\u706f"},
-ga5X(){return"\u5173\u95ed"}}
+gEU(d){return"\u6a21\u5f0f"},
+ga5q(){return"\u9009\u62e9\u52a8\u6001\u706f\u6548\u6a21\u5f0f\u6216\u9759\u6001\u7167\u660e\u6548\u679c"},
+gRy(){return"\u9009\u62e9\u6a21\u5f0f"},
+gcf(d){return"\u989c\u8272"},
+ga1l(){return"\u5fae\u8c03\u9759\u6001\u989c\u8272\u7684\u9971\u548c\u5ea6\u3001\u8272\u8c03\u548c\u4eae\u5ea6"},
+ga1k(){return"\u6240\u9009\u6a21\u5f0f\u81ea\u52a8\u7ba1\u7406\u706f\u5149\u989c\u8272"},
+ghM(){return"\u4eae\u5ea6"},
+ga0V(){return"\u8c03\u8282\u80cc\u5149 LED \u7684\u53d1\u5149\u5f3a\u5ea6\u3002"},
+gSa(d){return"\u901f\u5ea6"},
+gSb(){return"\u8c03\u8282\u52a8\u6001\u706f\u6548\u7684\u52a8\u753b\u53d8\u6362\u901f\u5ea6\u3002"},
+ga6w(){return"\u7701\u7535"},
+ga6x(){return"\u5173\u95ed\u706f\u5149\u4ee5\u8282\u7701\u7535\u91cf\u524d\u7684\u65e0\u64cd\u4f5c\u8d85\u65f6\u65f6\u95f4\u3002"},
+ga1j(){return"\u989c\u8272\u4ee3\u7801"},
+gip(){var x=this.d
+return x===$?this.d=new A.aQa():x}}
+A.aQ8.prototype={
+gjw(d){return"\u5de6\u952e"},
+gyJ(d){return"\u53f3\u952e"},
+gyc(){return"\u4e2d\u952e"},
+gow(d){return"\u524d\u8fdb"},
+gwP(){return"\u540e\u9000"},
+gxl(){return"DPI \u5faa\u73af"},
+Mb(d,e){return"\u6309\u952e "+e},
+gxk(d){return"\u7981\u7528"},
+gGt(){return"\u5411\u4e0a\u6eda\u52a8"},
+gGs(){return"\u5411\u4e0b\u6eda\u52a8"},
+gG4(){return"\u5411\u5de6\u6447\u6446"},
+gG5(){return"\u5411\u53f3\u6447\u6446"},
+gDQ(){return"DPI +"},
+gDP(){return"DPI -"},
+gFS(){return"\u56de\u62a5\u7387\u5faa\u73af"},
+gPB(){return"\u914d\u7f6e\u6587\u4ef6\u5faa\u73af"},
+gHh(){return"\u72d9\u51fb\u952e"},
+gQL(){return"\u97f3\u91cf\u589e\u52a0"},
+gQJ(){return"\u97f3\u91cf\u51cf\u5c11"},
+gQK(){return"\u9759\u97f3"},
+gP5(){return"\u4e0b\u4e00\u9996"},
+gPz(){return"\u4e0a\u4e00\u9996"},
+gHl(d){return"\u505c\u6b62"},
+gPu(){return"\u64ad\u653e / \u6682\u505c"},
+gQR(){return"\u7f51\u7edc\u641c\u7d22"},
+gQP(){return"\u4e3b\u9875"},
+gQM(){return"\u7f51\u9875\u540e\u9000"},
+gQO(){return"\u7f51\u9875\u524d\u8fdb"},
+gQS(){return"\u505c\u6b62\u52a0\u8f7d"},
+gQQ(){return"\u7f51\u9875\u5237\u65b0"},
+gQN(){return"\u6536\u85cf\u5939"},
+gOX(){return"\u5a92\u4f53\u64ad\u653e\u5668"},
+gNt(){return"\u7535\u5b50\u90ae\u4ef6"},
+gMe(){return"\u8ba1\u7b97\u5668"},
+gP4(){return"\u6211\u7684\u7535\u8111"},
+gED(){return"\u5de6 Alt"},
+gEE(){return"\u5de6 Ctrl"},
+gEG(){return"\u5de6 Win"},
+gEF(){return"\u5de6 Shift"},
+gQb(){return"\u53f3 Alt"},
+gQc(){return"\u53f3 Ctrl"},
+gQe(){return"\u53f3 Win"},
+gQd(){return"\u53f3 Shift"},
+gtt(){return"\u4efb\u610f\u6309\u952e"},
+gMj(){return"\u5927\u5199\u9501\u5b9a"},
+gHi(){return"\u7a7a\u683c"},
+gNy(){return"\u56de\u8f66"},
+gNz(){return"Esc"},
+gM_(){return"\u9000\u683c"},
+gQg(){return"Tab"},
+gOo(d){return"\u63d2\u5165 (Insert)"},
+gOj(){return"Home"},
+gPn(){return"\u5411\u4e0a\u7ffb\u9875"},
+gPm(){return"\u5411\u4e0b\u7ffb\u9875"},
+gGz(d){return"\u5220\u9664 (Delete)"},
+ghS(d){return"End"},
+gQn(){return"\u5411\u4e0a\u7bad\u5934"},
+gNf(){return"\u5411\u4e0b\u7bad\u5934"},
+ga52(){return"\u5411\u5de6\u7bad\u5934"},
+ga7e(){return"\u5411\u53f3\u7bad\u5934"},
+gPA(){return"\u622a\u5c4f (Print Screen)"},
+gH_(){return"\u6eda\u52a8\u9501\u5b9a"},
+gPr(d){return"\u6682\u505c (Pause)"},
+gP9(){return"\u6570\u5b57\u9501\u5b9a"},
+gPc(){return"\u5c0f\u952e\u76d8\u56de\u8f66"},
+gPb(){return"\u5c0f\u952e\u76d8\u5220\u9664"},
+ga5R(){return"\u5c0f\u952e\u76d8 +"},
+ga5V(){return"\u5c0f\u952e\u76d8 -"},
+ga5U(){return"\u5c0f\u952e\u76d8 *"},
+ga5S(){return"\u5c0f\u952e\u76d8 /"},
+ga5T(){return"\u5c0f\u952e\u76d8 ="},
+ga5H(){return"\u5c0f\u952e\u76d8 0"},
+ga5I(){return"\u5c0f\u952e\u76d8 1"},
+ga5J(){return"\u5c0f\u952e\u76d8 2"},
+ga5K(){return"\u5c0f\u952e\u76d8 3"},
+ga5L(){return"\u5c0f\u952e\u76d8 4"},
+ga5M(){return"\u5c0f\u952e\u76d8 5"},
+ga5N(){return"\u5c0f\u952e\u76d8 6"},
+ga5O(){return"\u5c0f\u952e\u76d8 7"},
+ga5P(){return"\u5c0f\u952e\u76d8 8"},
+ga5Q(){return"\u5c0f\u952e\u76d8 9"}}
+A.aQd.prototype={
+ga5u(){return"\u9f20\u6807\u56fa\u4ef6\u7248\u672c"},
+ga2G(){return"\u63a5\u6536\u5668\u56fa\u4ef6\u7248\u672c"},
+ga28(){return"\u5f53\u524d\u7248\u672c"},
+ga1b(){return"\u68c0\u67e5\u66f4\u65b0"},
+ga7Q(){return"\u66f4\u65b0\u56fa\u4ef6"}}
 A.aQg.prototype={
-ga5e(d){return"\u5faa\u73af"},
-gSf(){return"\u6309\u4efb\u610f\u952e\u6216\u9f20\u6807\u70b9\u51fb\u505c\u6b62"},
-ga6t(){return"\u6309\u4f4f\u64ad\u653e"}}
+gOP(){return"\u5b8f\u5217\u8868"},
+ga5h(){return"\u5b8f\u540d\u79f0"},
+gEZ(){return"\u65b0\u5efa\u5b8f"},
+gDB(){return"\u5220\u9664\u5b8f"},
+ga5i(){return"\u5b8f\u7c7b\u578b"},
+ga5e(){return"\u5faa\u73af\u6b21\u6570"},
+ga4W(){return"\u6309\u952e\u5ef6\u8fdf\u6a21\u5f0f"},
+ga6P(){return"\u5f55\u5236\u5ef6\u8fdf"},
+ga3i(){return"\u56fa\u5b9a\u5ef6\u8fdf"},
+ga3j(){return"\u56fa\u5b9a\u5ef6\u8fdf (\u6beb\u79d2)"},
+gSd(){return"\u5f00\u59cb\u5f55\u5236"},
+gSf(){return"\u505c\u6b62\u5f55\u5236"},
+ga6N(){return"\u5f55\u5236"},
+ga6Q(){return"\u5f55\u5236\u4e2d \u2014 \u8bf7\u6309\u4e0b\u6309\u952e\u2026"},
+ga5D(){return"\u672a\u5f55\u5236\u4efb\u4f55\u4e8b\u4ef6"},
+ga77(d){return"\u91cd\u7f6e"},
+gjH(d){return"\u4fdd\u5b58"},
+gih(d){return"\u53d6\u6d88"},
+gP6(){return"\u672a\u914d\u7f6e\u5b8f"},
+gP7(){return"\u521b\u5efa\u5b8f\u4ee5\u5f55\u5236\u6309\u952e\u5e8f\u5217\u548c\u9f20\u6807\u64cd\u4f5c\u3002"},
+ga23(){return"\u521b\u5efa\u5b8f"},
+gRz(){return"\u8bf7\u9009\u62e9\u8981\u7f16\u8f91\u7684\u5feb\u6377\u952e"},
+gRA(){return"\u4ece\u4fa7\u8fb9\u680f\u5217\u8868\u4e2d\u9009\u62e9\u4e00\u4e2a\u5b8f\u6216\u521b\u5efa\u4e00\u4e2a\u65b0\u5b8f\u3002"},
+ga7Z(){return"\u6eda\u8f6e"},
+ga4X(){return"\u6309\u952e\u6309\u4e0b"},
+ga4Z(){return"\u6309\u952e\u62ac\u8d77"},
+ga6W(){return"\u79fb\u9664\u64cd\u4f5c"},
+gRo(){return"\u5b8f\u4fdd\u5b58\u6210\u529f"},
+gv5(){return"\u5b8f\u4fdd\u5b58\u5931\u8d25"},
+gLO(){return"\u6240\u6709 16 \u4e2a\u5b8f\u69fd\u4f4d\u5747\u5df2\u88ab\u4f7f\u7528"},
+gE7(){return"\u56fa\u5b9a\u5ef6\u8fdf\u5fc5\u987b\u5728 1 \u5230 100 \u6beb\u79d2\u4e4b\u95f4"},
+Rn(d){return"\u5b8f\u4fdd\u5b58\u5931\u8d25: "+d},
+ga5f(){return"\u5faa\u73af\u6b21\u6570\u5fc5\u987b\u5728 1 \u5230 255 \u4e4b\u95f4"},
+EW(d){return"\u5b8f\u540d\u79f0\u957f\u5ea6\u4e0d\u80fd\u8d85\u8fc7 "+d+" \u4e2a\u5b57\u7b26"},
+ga0i(){return"\u5b8f\u5fc5\u987b\u5305\u542b 1 \u5230 30 \u4e2a\u64cd\u4f5c"},
+a2n(d){return"\u64cd\u4f5c "+d+" \u7684\u5ef6\u8fdf\u5fc5\u987b\u5728 0 \u5230 127 \u4e4b\u95f4"},
+a7K(d){return"\u64cd\u4f5c "+d+" \u5305\u542b\u4e0d\u53d7\u652f\u6301\u7684\u6309\u952e\u4ee3\u7801"},
+gip(){var x=this.d
+return x===$?this.d=new A.aQf():x}}
+A.aQ9.prototype={
+gzW(){return"\u7cfb\u7edf"},
+gy_(d){return"\u8bed\u8a00"},
+gFZ(){return"\u4e3b\u9898"},
+gEr(){return"\u5e2e\u52a9"},
+ga36(){return"\u5e38\u89c1\u95ee\u9898"},
+ga2d(){return"\u5ba2\u6237\u670d\u52a1"},
+ga4Y(){return"\u6309\u952e\u6d4b\u8bd5"},
+ga6C(){return"\u4ea7\u54c1\u8bf4\u660e\u4e66"},
+ga2W(){return"\u9a71\u52a8\u95ee\u9898\u53cd\u9988"},
+ga1n(){return"NEWMEN HUB \u793e\u533a"},
+gFr(){return"\u6027\u80fd\u8bbe\u7f6e"},
+ga5g(){return"\u4f4e\u7535\u91cf\u63d0\u9192\u9608\u503c"},
+gCe(){return"\u5173\u4e8e NEWMEN HUB"},
+a29(d){return"\u5f53\u524d\u7248\u672c: "+d},
+a5X(d){return"\u5b98\u65b9\u7f51\u7ad9: "+d},
+ga55(){return"\u6d45\u8272\u6a21\u5f0f"},
+ga2g(){return"\u6df1\u8272\u6a21\u5f0f"},
+gTd(){return"\u8ddf\u968f\u7cfb\u7edf"}}
+A.aQa.prototype={
+ga1w(){return"\u5e38\u4eae"},
+gS1(){return"\u5355\u8272\u547c\u5438"},
+ga5y(){return"\u591a\u8272\u547c\u5438"},
+ga5z(){return"\u591a\u8272\u9713\u8679"},
+ga7o(){return"\u6d41\u5149\u8dd1\u9a6c"},
+ga2f(){return"\u4e03\u5f69\u6ce2\u6d6a"},
+ga2e(){return"\u5149\u8c31\u5faa\u73af"},
+ga7n(){return"\u8dd1\u9a6c\u706f"},
+ga5W(){return"\u5173\u95ed"}}
+A.aQf.prototype={
+ga5d(d){return"\u5faa\u73af"},
+gSe(){return"\u6309\u4efb\u610f\u952e\u6216\u9f20\u6807\u70b9\u51fb\u505c\u6b62"},
+ga6s(){return"\u6309\u4f4f\u64ad\u653e"}}
 A.abq.prototype={}
 var z=a.updateTypes([])
-A.aRJ.prototype={
-$1(d){return A.bk5(this.a,d)},
+A.aRI.prototype={
+$1(d){return A.bk4(this.a,d)},
 $S:82}
-A.aRt.prototype={
+A.aRs.prototype={
 $1$userName(d){return"\u4f60\u597d\uff0c"+B.h(d)+"\uff01"},
 $C:"$1$userName",
 $R:0,
 $D(){return{userName:C.a7}},
 $S:264}
-A.aRu.prototype={
+A.aRt.prototype={
 $1$deviceName(d){return B.h(d)+": \u7535\u91cf\u8fc7\u4f4e"},
 $C:"$1$deviceName",
 $R:0,
 $D(){return{deviceName:C.a7}},
 $S:265}
-A.aRv.prototype={
+A.aRu.prototype={
 $1$pct(d){return"\u7535\u91cf "+B.h(d)+"%"},
 $C:"$1$pct",
 $R:0,
 $D(){return{pct:C.a7}},
 $S:91}
-A.aRB.prototype={
+A.aRA.prototype={
 $1$pct(d){return"\u7535\u91cf "+B.h(d)+"% \u5145\u7535\u4e2d"},
 $C:"$1$pct",
 $R:0,
 $D(){return{pct:C.a7}},
 $S:91}
-A.aRC.prototype={
+A.aRB.prototype={
 $1$seconds(d){return B.h(d)+" \u79d2"},
 $C:"$1$seconds",
 $R:0,
 $D(){return{seconds:C.a7}},
 $S:266}
-A.aRD.prototype={
+A.aRC.prototype={
 $1$level(d){return"DPI "+B.h(d)},
 $C:"$1$level",
 $R:0,
 $D(){return{level:C.a7}},
 $S:98}
-A.aRE.prototype={
+A.aRD.prototype={
 $1$level(d){return"\u5220\u9664 DPI \u6863\u4f4d "+B.h(d)},
 $C:"$1$level",
 $R:0,
 $D(){return{level:C.a7}},
 $S:98}
-A.aRF.prototype={
+A.aRE.prototype={
 $1$wire(d){return"\u6a21\u5f0f "+B.h(d)},
 $C:"$1$wire",
 $R:0,
 $D(){return{wire:C.a7}},
 $S:268}
-A.aRG.prototype={
+A.aRF.prototype={
 $1$id(d){return"\u6309\u952e "+B.h(d)},
 $C:"$1$id",
 $R:0,
 $D(){return{id:C.a7}},
 $S:97}
-A.aRH.prototype={
+A.aRG.prototype={
 $1$id(d){return"\u5b8f\u64ad\u653e (#"+B.h(d)+")"},
 $C:"$1$id",
 $R:0,
 $D(){return{id:C.a7}},
 $S:97}
-A.aRI.prototype={
+A.aRH.prototype={
 $1$error(d){return"\u5b8f\u4fdd\u5b58\u5931\u8d25: "+B.h(d)},
 $C:"$1$error",
 $R:0,
 $D(){return{error:C.a7}},
 $S:147}
-A.aRw.prototype={
+A.aRv.prototype={
 $1$max(d){return"\u5b8f\u540d\u79f0\u957f\u5ea6\u4e0d\u80fd\u8d85\u8fc7 "+B.h(d)+" \u4e2a\u5b57\u7b26"},
 $C:"$1$max",
 $R:0,
 $D(){return{max:C.a7}},
 $S:148}
-A.aRx.prototype={
+A.aRw.prototype={
 $1$index(d){return"\u64cd\u4f5c "+B.h(d)+" \u7684\u5ef6\u8fdf\u5fc5\u987b\u5728 0 \u5230 127 \u4e4b\u95f4"},
 $C:"$1$index",
 $R:0,
 $D(){return{index:C.a7}},
 $S:101}
-A.aRy.prototype={
+A.aRx.prototype={
 $1$index(d){return"\u64cd\u4f5c "+B.h(d)+" \u5305\u542b\u4e0d\u53d7\u652f\u6301\u7684\u6309\u952e\u4ee3\u7801"},
 $C:"$1$index",
 $R:0,
 $D(){return{index:C.a7}},
 $S:101}
-A.aRz.prototype={
+A.aRy.prototype={
 $1$version(d){return"\u5f53\u524d\u7248\u672c: "+B.h(d)},
 $C:"$1$version",
 $R:0,
 $D(){return{version:C.a7}},
 $S:150}
-A.aRA.prototype={
+A.aRz.prototype={
 $1$url(d){return"\u5b98\u65b9\u7f51\u7ad9: "+B.h(d)},
 $C:"$1$url",
 $R:0,
@@ -759,22 +759,22 @@ $D(){return{url:C.a7}},
 $S:151};(function inheritance(){var x=a.mixin,w=a.inherit,v=a.inheritMany
 w(A.abq,B.hS)
 w(A.a_Y,A.abq)
-w(A.aQf,B.a_Q)
-w(A.aQm,B.a_X)
-w(A.aQi,B.a_T)
-w(A.aQd,B.a_O)
-w(A.aQj,B.a_U)
-w(A.aQl,B.a_W)
-w(A.aQk,B.a_V)
-w(A.aQc,B.a_M)
-w(A.aQ9,B.a_K)
-w(A.aQe,B.a_P)
-w(A.aQh,B.a_R)
-w(A.aQa,B.a_L)
-w(A.aQb,B.a_N)
-w(A.aQg,B.a_S)
-v(B.mQ,[A.aRJ,A.aRt,A.aRu,A.aRv,A.aRB,A.aRC,A.aRD,A.aRE,A.aRF,A.aRG,A.aRH,A.aRI,A.aRw,A.aRx,A.aRy,A.aRz,A.aRA])
+w(A.aQe,B.a_Q)
+w(A.aQl,B.a_X)
+w(A.aQh,B.a_T)
+w(A.aQc,B.a_O)
+w(A.aQi,B.a_U)
+w(A.aQk,B.a_W)
+w(A.aQj,B.a_V)
+w(A.aQb,B.a_M)
+w(A.aQ8,B.a_K)
+w(A.aQd,B.a_P)
+w(A.aQg,B.a_R)
+w(A.aQ9,B.a_L)
+w(A.aQa,B.a_N)
+w(A.aQf,B.a_S)
+v(B.mQ,[A.aRI,A.aRs,A.aRt,A.aRu,A.aRA,A.aRB,A.aRC,A.aRD,A.aRE,A.aRF,A.aRG,A.aRH,A.aRv,A.aRw,A.aRx,A.aRy,A.aRz])
 x(A.abq,B.js)})()
-B.b4q(b.typeUniverse,JSON.parse('{"a_Y":{"hS":[],"js":["dx","hS"]}}'))
+B.b4p(b.typeUniverse,JSON.parse('{"a_Y":{"hS":[],"js":["dx","hS"]}}'))
 var y={c:B.aw("o4<dx,hS>")}};
-(a=>{a["mb0ZccS+EjtI87ntJna+qBUAXfI="]=a.current})($__dart_deferred_initializers__);
+(a=>{a["VAhan8CTNw7DKdXkZsDS5g4i68I="]=a.current})($__dart_deferred_initializers__);
